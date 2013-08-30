@@ -62,6 +62,17 @@
 						</div>
 					</a>
 				</li>
+				<li class="ben-kneen">
+					<a href="#ben-kneen">
+						<div data-picture data-alt="Ben Kneen">
+							<div data-src="/_/media/management-team/SarahHodkinson1x.jpg"></div>
+							<div data-src="/_/media/management-team/SarahHodkinson2x.jpg" data-media="only screen and (-webkit-min-device-pixel-ratio:2), only screen and (min--moz-device-pixel-ratio:2), only screen and (-o-min-device-pixel-ratio:2/1), only screen and (min-device-pixel-ratio:2), only screen and (min-resolution:192dpi), only screen and (min-resolution:2dppx)"></div>
+							<noscript>
+								<img src="/_/media/management-team/SarahHodkinson1x.jpg" alt="Ben Kneen" />
+							</noscript>
+						</div>
+					</a>
+				</li>
 				<li class="david-delmar">
 					<a href="#david-delmar">
 						<div data-picture data-alt="David Delmar">
@@ -133,10 +144,15 @@
 					<p>Sarah has over 15 years of senior marketing and sales management experience, primarily within the media industry. Prior to relocating to the US in 2002, Sarah held positions in London, England at United Business Media and IPC Media.</p>
 					<p>She graduated from Lancaster University with a B.A. Honors in 1996, and later that year, qualified for MENSA membership. Sarah serves as a committee member for the Boston chapter of WNet (Women Networking in Electronic Transactions), is a mentor in the eBay Women in Technology program and sponsor of the start-up, The Welcoming Committee, currently incubated at the PayPal Boston office. In her spare time she enjoys travel, chess and swimming. Follow Sarah on Twitter <a href="https://twitter.com/sarahjhodkinson">@sarahjhodkinson.</a></p>
 				</article>
+				
+				<article id="ben-kneen">
+					<h1>Ben Kneen</h1>
+					<p>Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen Ben Kneen </p>
+				</article>
 
 				<article id="david-delmar">
 					<h1>David Delmar</h1>
-					<p>In his role as Design Lead for the PayPal Media Network, David consults with agencies and retailers on interactive, rich media mobile advertising. He leads an exceptional <abbr title="User Experience">UX</abbr> design and development team that makes it happen. He occasionally makes actual things with actual ink and paper, and posts them on <a href="http://delmarsenties.com">his site</a>. David is a sucker for comic books and campy movies. Finally, he will talk about all things <abbr title="User Interface">UI</abbr>, UX, mobile, and interactive art whether or not anyone is listening. Best to reach him on Twitter at <a href="http://twitter.com/delmarsenties">@delmarsenties</a> where he has a character limit.</p>
+					<p>In his role as Design Lead for the PayPal Media Network, David consults with agencies and retailers on interactive, rich media mobile advertising. He leads an exceptional <abbr title="User Experience">UX</abbr> design and development team that produces high-performing work. He works often with startups, helping design and build experiences that are simple and sticky, including that of the company deemed "Most Innovative" at SXSW in 2013. He gives a UX workshop to graduate design students, and loves to talk product with entrepreneurs and <i>want</i>repreneurs of all stripes. He plays an active role in PayPal's incubator, <a href="http://startank.com" target="_blank" alt="Start Tank">Start Tank,</a> and in fact designed and built the site. He occasionally makes actual things with actual ink and paper, and posts them on <a href="http://delmarsenties.com">his site</a>. He will talk about all things <abbr title="User Interface">UI</abbr>, UX, mobile, and interactive art whether or not anyone is listening. So best to reach him on Twitter at <a href="http://twitter.com/delmarsenties">@delmarsenties</a> where he has a character limit.</p>
 				</article>
 				
 				<article id="neala-polachi">
@@ -161,7 +177,6 @@
 					
 					<p>In 2012, Karen grew the PayPal Media Network Performance Platform from 4 partners to 16, with positive month over month growth, and an average annual growth rate of over 1000%. She also led business development efforts for eBay's internal Owned & Operated Properties, including eBay's Red Laser mobile application for iPhone and Android.</p>
 					
-					<p>Specialties: Advertising, Advertising Sales, Advertising Exchanges, Business Development, Digital Media, Demand Side Platforms (DSPs), Media Sales, Mobile, Real Time Bidding Platforms (RTB), Rich Media for Online and Mobile, Strategic Partnerships, Supply Side Platforms (SSPs). </p>
 				</article>
 				
 				
