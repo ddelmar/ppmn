@@ -1,0 +1,33 @@
+- The pre-loaded inverted nav-tab seems to be requested, needlessly, a second time when its class swaps. Check the JS & the CSS and try to resolve this.
+- Not a huge deal, but watch how the URL momentarily contains two hashes after clicking a link in the header (to another slide).
+- The white PP logo disappears when placed over certain backgrounds.
+- Things I Need:
+	- The title elements and the meta description elements should have values in all pages.
+	- Confirmation that the contact form either a) works, or b) somebody will make it work on their end. Test email sent on 7/29/13
+	- Home
+		- Illustration for bottom-left of home slide
+	- About Us
+		- Visual direction for the link that sends people to the About Management Team page
+	- Mobile and Online
+		- Content
+		- When in mobile, we need a second hex value for the bottom half
+	- Mobile Targeting
+		- New movie to embed, without phone-wireframe and background color, in all three formats (.webm, .mp4, .ogg/.ogv)
+		- Animated .gif video fallback
+	- Online Targeting
+		- Content
+	- Creative
+		- Movie without phone-wireframe and background color, in all three formats (.webm, .mp4, .ogg/.ogv)
+		- Animated .gif video fallback
+	- News and Events
+		- Content
+	- Asset Requirements
+		- Content
+	- About Management Team
+		- David Chang photo, 306px or larger
+		- Ron Braunfeld photo, 306px or larger
+		- Sarah Hodkinson photo, 306px or larger
+		- David Delmar photo, 306px or larger
+- Browser-test!
+- Environment configuration (CodeKit compile modes, etc.)
+- Performance! Concatenate, minimize, caching, gzip, etc.
