@@ -1,0 +1,26 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\000038}}
+.hidden {
+  display: none !important;
+  visibility: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000315}}
+.invisible {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000328}}
+.clearfix {
+  *zoom: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000329}}
+  .clearfix:before, .clearfix:after {
+    content: " ";
+    display: table; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000334}}
+  .clearfix:after {
+    clear: both; }

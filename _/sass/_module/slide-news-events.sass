@@ -1,0 +1,166 @@
+// ============================================================
+// NOTE: Only selectors that are unique to slide #8. For selectors that work across all slides, see /_/sass/_foundation/base.sass.
+// ============================================================
+
+.s-8
+	background-color: #0d79bf
+
+
+	// General header selectors.
+
+	h1
+		+mq-min-width($bp-medium)
+			font-size: 3em
+
+		+mq-min-width($bp-large)
+			font-size: 4em
+
+
+	// Buttons at the top-right.
+
+	.buttons
+		margin-bottom: 40px
+		text-align: center
+
+		a
+			background-color: #1b6ea3
+			+border-radius(5px)
+			color: #fff
+			display: inline-block
+			font-size: .9em
+			margin-left: .5em
+			padding: .5em 1em
+
+			&:hover,
+			&:focus
+				background-color: #00406a
+				text-decoration: none
+
+		+mq-min-width($bp-small)
+
+		+mq-min-width($bp-large)
+			margin-bottom: 90px
+			text-align: right
+
+
+	// Change the layout at certain viewport widths.
+
+	+mq-min-width($bp-small)
+		.content
+			padding-top: 100px
+
+
+	+mq-min-width($bp-medium)
+		.content
+			padding-top: 72px
+
+
+	+mq-min-width($bp-large)
+		.events-wrap
+			float: left
+			width: 60%
+
+		.news-wrap
+			float: right
+			width: 35%
+
+
+// ============================================================
+// NOTE: The immediately-below selectors that are *NOT* scoped
+// to the 7th slide (News and Events) for one very good reason:
+// They're uses *BOTH* in the 7th slide and in the individual
+// News & Events pages (/events/ and /news/). That is why they
+// are down here and not indented beneath the .s-7 class at the
+// very top of the page.
+// ============================================================
+
+
+.events-wrap,
+.news-wrap
+	@extend .clearfix
+	clear: right
+	margin-bottom: 50px
+
+
+	ol
+		margin: 0 0 1em
+		padding: 0
+
+
+	li
+		list-style: none !important
+		margin: 0
+
+		// All anchors in the lists.
+
+		a
+			@extend .clearfix
+			background-color: #1b6ea3
+			color: #fff
+			display: block
+			padding: 25px 15px
+
+			.event-name
+				display: block
+
+				+mq-min-width($bp-medium)
+					float: left
+					width: 50%
+
+			.event-date,
+			.event-location
+				color: #99c3de
+				display: block
+				float: right
+				margin-top: .5em
+				width: 15%
+
+				+mq-min-width($bp-medium)
+					margin-top: 0
+					text-align: right
+					width: 12%
+
+			.event-location
+				float: left
+				width: 75%
+
+				+mq-min-width($bp-medium)
+					float: right
+					margin-right: 20px
+					width: 28%
+
+			&:hover,
+			&:focus
+				background-color: #00406a
+				text-decoration: none
+
+				.event-date,
+				.event-location
+					color: #fff
+
+		// Every other anchor in the lists.
+
+		&:nth-child(2n + 2)
+			a
+				background-color: #1a74ae
+
+				&:hover,
+				&:focus
+					background-color: #00406a
+
+
+	// The See All links
+
+	.see-all
+		color: #fff
+
+		+mq-min-width($bp-small)
+			float: right
+
+
+	+mq-min-width($bp-large)
+		margin-bottom: 0
+
+
+.news-wrap
+	margin-bottom: 0

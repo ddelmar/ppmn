@@ -1,0 +1,42 @@
+// ============================================================
+// NOTE: Only selectors that are unique to slide #4. For selectors that work across all slides, see /_/sass/_foundation/base.sass.
+// ============================================================
+
+.s-4
+	background-color: $orange
+
+	video
+		display: none
+		visibility: hidden
+
+		+mq-min-width($bp-small)
+			display: block
+			margin-left: auto
+			margin-right: auto
+			max-width: 293px
+			visibility: visible
+
+		+mq-min-width($bp-medium)
+			float: right
+
+	img
+		margin: 0 auto
+		max-width: 147px
+
+		+mq-min-width(550px)
+			max-width: 293px
+
+	h1,
+	p
+		+mq-min-width($bp-medium)
+			margin-right: 350px
+
+		+mq-min-width($bp-large)
+			margin-right: 380px
+
+	h1
+		+mq-min-width($bp-medium)
+			font-size: 3em
+
+		+mq-min-width($bp-large)
+			font-size: 4em

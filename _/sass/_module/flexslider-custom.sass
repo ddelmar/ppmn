@@ -1,0 +1,54 @@
+// ============================================================
+// NOTE: this is the custom Flexslider style-set. Everything in
+// here is particular to this project and NOT general baseline
+// styles. For those, you want to look at flexslider-base.sass.
+// ============================================================
+
+
++mq-min-width($bp-small)
+	/* Remove default outer styles */
+	.flexslider
+		background-color: transparent
+		border: none
+		border-radius: 0
+		box-shadow: none
+		margin-bottom: 0
+
+
+	/* Reveal a snippet of the next slide. Percentage of all slides */
+	.flex-active-slide + li
+		left: -.6425%
+		position: relative
+
+
+	/* Override the default styles of the clickable areas. "Shadow" area on hover */
+	.flex-direction-nav a
+		background-color: rgba(0,0,0,.5)
+		background-image: none
+		height: 100%
+		margin-top: 0
+		top: 0
+		width: 12.85%
+
+
+	/* Override the default position(s) of the Next clickable area */
+	.flexslider .flex-next,
+	.flexslider:hover .flex-next
+		right: 0
+
+
+	/* Override the default position(s) of the Previous clickable area */
+	.flexslider .flex-prev,
+	.flexslider:hover .flex-prev
+		left: 0
+
+
+	/* Override the default opacity of the clickable areas */
+	.flexslider .flex-next,
+	.flexslider .flex-prev,
+	.flexslider:hover .flex-next,
+	.flexslider:hover .flex-prev,
+	.flex-direction-nav .flex-disabled,
+	.flexslider:hover .flex-disabled,
+	.flexslider:hover .flex-disabled:hover
+		opacity: 0

@@ -1,0 +1,61 @@
+// ============================================================
+// Selectors for the magical Management Team page
+// ============================================================
+
+
+.management-team
+	@extend .clearfix
+
+	.content-wrap
+		padding: 100px 6% 0
+
+
+.team-intro
+	margin-bottom: 50px
+
+	+mq-min-width($bp-medium)
+		float: right
+		width: 45%
+
+		h1
+			margin-top: 0
+
+
+.team-headshots
+	@extend .clearfix
+	list-style: none
+	margin-bottom: 50px
+	padding-left: 0
+
+	li
+		float: left
+		margin: 0
+		width: 33.3%
+
+	img
+		width: 100%
+
+		+mq-min-width($bp-medium)
+			opacity: .3
+
+			&:hover,
+			&:focus,
+			&.selected
+				opacity: 1
+
+	+mq-min-width($bp-medium)
+		float: left
+		width: 45%
+
+
+.team-bios
+
+	> article
+		margin-bottom: 50px
+
+	+mq-min-width($bp-medium)
+		float: right
+		width: 45%
+
+		h1
+			margin-top: 0

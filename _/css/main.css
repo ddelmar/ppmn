@@ -1,0 +1,1815 @@
+/* Hello, wayward source viewer. You may notice that that the following CSS has been minified. This is partially to enhance performance and partially to discourage tinkering because the style was originally written in Sass (http://sass-lang.com/) with Compass (http://compass-style.org/). You can see how this site was built by tacking /_/sass/main.sass on to the end of the domain name, and following any @import paths from there, if desired. We learned much of what we know by perusing and reusing other people's code. I hope that this preserves the same benefits for you. */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000311}}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000328}}
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000338}}
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000346}}
+[hidden] {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000358}}
+html {
+  font-size: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000366}}
+html,
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000376}}
+body {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000387}}
+a:focus {
+  outline: thin dotted; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000393}}
+a:active,
+a:hover {
+  outline: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003105}}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003109}}
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003113}}
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003117}}
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003121}}
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003125}}
+h6 {
+  font-size: 0.67em;
+  margin: 2.33em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003132}}
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003138}}
+b,
+strong {
+  font-weight: bold; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003143}}
+blockquote {
+  margin: 1em 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003149}}
+dfn {
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003156}}
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003164}}
+mark {
+  background: yellow;
+  color: black; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003171}}
+p,
+pre {
+  margin: 1em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003178}}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  _font-family: "courier new", monospace;
+  font-size: 1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003189}}
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003197}}
+q {
+  quotes: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003203}}
+q:before,
+q:after {
+  content: "";
+  content: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003211}}
+small {
+  font-size: 80%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003217}}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003224}}
+sup {
+  top: -0.5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003227}}
+sub {
+  bottom: -0.25em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003238}}
+dl,
+menu,
+ol,
+ul {
+  margin: 1em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003244}}
+dd {
+  margin: 0 0 0 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003250}}
+menu,
+ol,
+ul {
+  padding: 0 0 0 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003258}}
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none;
+  padding-left: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003273}}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003280}}
+svg:not(:root) {
+  overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003291}}
+figure {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003302}}
+form {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003308}}
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003318}}
+legend {
+  border: 0;
+  padding: 0;
+  white-space: normal;
+  *margin-left: -7px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003329}}
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003341}}
+button,
+input {
+  line-height: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003351}}
+button,
+select {
+  text-transform: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003362}}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+  *overflow: visible; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003373}}
+button[disabled],
+html input[disabled] {
+  cursor: default; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003383}}
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+  *height: 13px;
+  *width: 13px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003395}}
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003404}}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003411}}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003420}}
+textarea {
+  overflow: auto;
+  vertical-align: top; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003432}}
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\000036}}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000312}}
+html,
+button,
+input,
+select,
+textarea {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000322}}
+html {
+  background-color: #049cdb; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000326}}
+body {
+  font-size: 1em;
+  line-height: 1.4; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000331}}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #999999;
+  margin: 1em 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000340}}
+img {
+  vertical-align: middle; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000350}}
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000356}}
+textarea {
+  resize: vertical; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000362}}
+ol,
+ul,
+dd {
+  margin-left: 0;
+  padding-left: 32px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000368}}
+  ol ol,
+  ol ul,
+  ul ol,
+  ul ul,
+  dd ol,
+  dd ul {
+    margin: 0.5em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000373}}
+li {
+  margin-bottom: 0.5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000379}}
+blockquote {
+  margin-left: 32px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000382}}
+  blockquote p {
+    font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000388}}
+pre {
+  font-family: "Inconsolata", "Monoco", Courier New, monospace;
+  font-size: 0.875em;
+  overflow: scroll; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\0000393}}
+  pre code {
+    display: block;
+    padding: 1em 16px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003104}}
+a {
+  color: #00447c;
+  text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003108}}
+  a:hover, a:focus {
+    color: #001a2f;
+    text-decoration: underline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003113}}
+  a:visited {
+    color: #00447c; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003119}}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  letter-spacing: 1px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003125}}
+h1 {
+  font-size: 2em;
+  margin: 1em 0 0.1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003130}}
+h2 {
+  font-size: 1.625em;
+  margin: 1em 0 0.1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003135}}
+h3 {
+  font-size: 0.9375em;
+  margin: 1.75em 0 0.2em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003140}}
+h4 {
+  font-size: 0.8125em;
+  margin: 1.75em 0 0.2em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003145}}
+h5 {
+  font-size: 0.8125em;
+  margin: 1.75em 0 0.4em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003150}}
+h6 {
+  font-size: 0.8125em;
+  margin: 1.75em 0 0.4em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003162}}
+.s-1,
+.s-2,
+.s-3,
+.s-4,
+.s-5,
+.s-6,
+.s-7,
+.s-8 {
+  font-size: 1.125em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003172}}
+  .s-1 .content,
+  .s-2 .content,
+  .s-3 .content,
+  .s-4 .content,
+  .s-5 .content,
+  .s-6 .content,
+  .s-7 .content,
+  .s-8 .content {
+    color: white;
+    padding: 50px 6%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003177}}
+    .s-1 .content li,
+    .s-2 .content li,
+    .s-3 .content li,
+    .s-4 .content li,
+    .s-5 .content li,
+    .s-6 .content li,
+    .s-7 .content li,
+    .s-8 .content li {
+      list-style: disc; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003172}}
+      .s-1 .content,
+      .s-2 .content,
+      .s-3 .content,
+      .s-4 .content,
+      .s-5 .content,
+      .s-6 .content,
+      .s-7 .content,
+      .s-8 .content {
+        padding-top: 130px;
+        padding-right: 18%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003184}}
+  .s-1 h1,
+  .s-2 h1,
+  .s-3 h1,
+  .s-4 h1,
+  .s-5 h1,
+  .s-6 h1,
+  .s-7 h1,
+  .s-8 h1 {
+    font-size: 1.75em;
+    line-height: 1;
+    margin: 0 0 0.5em; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003184}}
+      .s-1 h1,
+      .s-2 h1,
+      .s-3 h1,
+      .s-4 h1,
+      .s-5 h1,
+      .s-6 h1,
+      .s-7 h1,
+      .s-8 h1 {
+        font-size: 2em;
+        margin-top: 1.25em; } }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003184}}
+      .s-1 h1,
+      .s-2 h1,
+      .s-3 h1,
+      .s-4 h1,
+      .s-5 h1,
+      .s-6 h1,
+      .s-7 h1,
+      .s-8 h1 {
+        margin-top: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003196}}
+  .s-1 p,
+  .s-2 p,
+  .s-3 p,
+  .s-4 p,
+  .s-5 p,
+  .s-6 p,
+  .s-7 p,
+  .s-8 p {
+    margin-bottom: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003205}}
+.chromeframe {
+  margin: 0.2em 0;
+  background: #cccccc;
+  color: black;
+  padding: 0.2em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\000036}}
+header {
+  -webkit-box-shadow: 0 1px 2px rgba(0, 1, 1, 0.35);
+  -moz-box-shadow: 0 1px 2px rgba(0, 1, 1, 0.35);
+  box-shadow: 0 1px 2px rgba(0, 1, 1, 0.35);
+  background-color: whitesmoke;
+  bottom: 115%;
+  padding: 20px 12% 20px 6%;
+  position: absolute;
+  width: 100%;
+  z-index: 100; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000315}}
+  header.tab-in-view {
+    bottom: 99.1%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000318}}
+  header.all-in-view {
+    bottom: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000321}}
+  header.with-animation {
+    -moz-transition: bottom 0.2s;
+    -webkit-transition: bottom 0.2s;
+    -ms-transition: bottom 0.2s;
+    -o-transition: bottom 0.2s;
+    transition: bottom 0.2s; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\000036}}
+    header {
+      padding-bottom: 40px;
+      padding-top: 40px; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000336}}
+.nav-list {
+  font-size: 0.875em;
+  margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000340}}
+  .nav-list li {
+    margin: 1em 0; }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000340}}
+      .nav-list li {
+        margin-bottom: 0.75em;
+        margin-top: 0.75em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000347}}
+  .nav-list a {
+    font-weight: bold; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000336}}
+    .nav-list {
+      float: left; } }
+
+@media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000354}}
+  .nl-1 {
+    padding-right: 60px;
+    width: 22%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000360}}
+.nl-2 {
+  border-bottom: 1px solid #e6e6e6;
+  border-top: 1px solid #e6e6e6; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000360}}
+    .nl-2 {
+      border: none;
+      border-left: 1px solid #e6e6e6;
+      border-right: 1px solid #e6e6e6;
+      padding-left: 60px;
+      padding-right: 60px;
+      width: 49.6%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000374}}
+.nl-3 a {
+  font-weight: normal; }
+@media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000373}}
+  .nl-3 {
+    padding-left: 60px;
+    width: 28.4%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000382}}
+.nav-link-description {
+  color: #666666;
+  display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000387}}
+.nav-tab {
+  background: transparent url('../media/main-nav-tab.png?1377628174') left top no-repeat;
+  border: 0;
+  display: block;
+  height: 28px;
+  overflow: hidden;
+  *text-indent: -999px;
+  width: 209px;
+  height: 28px;
+  left: 50%;
+  margin-left: -104px;
+  margin-top: -1px;
+  position: absolute;
+  top: 100%;
+  width: 209px;
+  z-index: 101; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_mixin\/image-replace\.sass}line{font-family:\0000324}}
+  .nav-tab:before {
+    content: "";
+    display: block;
+    height: 150%;
+    width: 0; }
+  @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000387}}
+    .nav-tab {
+      background-image: url('../media/main-nav-tab-2x.png?1377628174');
+      -webkit-background-size: 100%;
+      background-size: 100%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\0000398}}
+  .nav-tab:focus {
+    outline: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003101}}
+  .all-in-view .nav-tab {
+    background: transparent url('../media/main-nav-tab-inverted.png?1377628174') left top no-repeat;
+    border: 0;
+    display: block;
+    height: 28px;
+    overflow: hidden;
+    *text-indent: -999px;
+    width: 209px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_mixin\/image-replace\.sass}line{font-family:\0000324}}
+    .all-in-view .nav-tab:before {
+      content: "";
+      display: block;
+      height: 150%;
+      width: 0; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003101}}
+      .all-in-view .nav-tab {
+        background-image: url('../media/main-nav-tab-inverted-2x.png?1377628174');
+        -webkit-background-size: 100%;
+        background-size: 100%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003105}}
+.pp-logo-1,
+.pp-logo-2 {
+  height: 22px;
+  width: 222px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003111}}
+.pp-logo-1 a {
+  background: transparent url('../media/pp-logo-color.png?1377628174') left top no-repeat;
+  border: 0;
+  display: block;
+  height: 22px;
+  overflow: hidden;
+  *text-indent: -999px;
+  width: 222px;
+  clear: left;
+  margin: 20px 0 14px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_mixin\/image-replace\.sass}line{font-family:\0000324}}
+  .pp-logo-1 a:before {
+    content: "";
+    display: block;
+    height: 150%;
+    width: 0; }
+  @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003111}}
+    .pp-logo-1 a {
+      background-image: url('../media/pp-logo-color-2x.png?1377628174');
+      -webkit-background-size: 100%;
+      background-size: 100%; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003111}}
+    .pp-logo-1 a {
+      margin-bottom: 0;
+      margin-top: 48px; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003121}}
+.pp-logo-2 {
+  left: 6%;
+  position: absolute;
+  top: 53px;
+  z-index: 50; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003127}}
+  .pp-logo-2 a {
+    background: transparent url('../media/pp-logo-white.png?1377628174') left top no-repeat;
+    border: 0;
+    display: block;
+    height: 22px;
+    overflow: hidden;
+    *text-indent: -999px;
+    width: 222px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_mixin\/image-replace\.sass}line{font-family:\0000324}}
+    .pp-logo-2 a:before {
+      content: "";
+      display: block;
+      height: 150%;
+      width: 0; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003127}}
+      .pp-logo-2 a {
+        background-image: url('../media/pp-logo-white-2x.png?1377628174');
+        -webkit-background-size: 100%;
+        background-size: 100%; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/header\.sass}line{font-family:\00003121}}
+    .pp-logo-2 {
+      top: 33px; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000318}}
+.slides,
+.slides li,
+.flex-control-nav,
+.flex-direction-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+@media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000329}}
+  .flex-container a:active,
+  .flexslider a:active,
+  .flex-container a:focus,
+  .flexslider a:focus {
+    outline: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000337}}
+  .flexslider {
+    margin: 0;
+    padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000342}}
+  .flexslider .slides > li {
+    display: none;
+    margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000350}}
+  .flexslider article:not(.events-wrap):not(.news-wrap) p, .flexslider article:not(.events-wrap):not(.news-wrap) li,
+  .main p,
+  .main li,
+  .team-bios p,
+  .team-bios li {
+    line-height: 1.7em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000352}}
+    .flexslider article:not(.events-wrap):not(.news-wrap) p a, .flexslider article:not(.events-wrap):not(.news-wrap) li a,
+    .main p a,
+    .main li a,
+    .team-bios p a,
+    .team-bios li a {
+      background: white;
+      padding: 4px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000355}}
+    .flexslider article:not(.events-wrap):not(.news-wrap) p a:hover, .flexslider article:not(.events-wrap):not(.news-wrap) li a:hover,
+    .main p a:hover,
+    .main li a:hover,
+    .team-bios p a:hover,
+    .team-bios li a:hover {
+      text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000358}}
+  .flexslider .slides img {
+    width: 100%;
+    display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000363}}
+  .flex-pauseplay span {
+    text-transform: capitalize; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000368}}
+  .slides:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000377}}
+  html[xmlns] .slides {
+    display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000382}}
+  * html .slides {
+    height: 1%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000389}}
+  .no-js .slides > li:first-child {
+    display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\0000394}}
+  .flexslider {
+    margin: 0 0 60px;
+    background: white;
+    border: 4px solid white;
+    position: relative;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    -o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    zoom: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003110}}
+  .flex-viewport {
+    max-height: 2000px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    transition: all 1s ease; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003117}}
+  .loading .flex-viewport {
+    max-height: 300px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003121}}
+  .flexslider .slides {
+    zoom: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003125}}
+  .carousel li {
+    margin-right: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003130}}
+  .flex-direction-nav {
+    *height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003134}}
+  .flex-direction-nav a {
+    width: 30px;
+    height: 30px;
+    margin: -20px 0 0;
+    display: block;
+    background: url(/_/media/bg-direction-nav.png) no-repeat 0 0;
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    cursor: pointer;
+    text-indent: -9999px;
+    opacity: 0;
+    -webkit-transition: all 0.3s ease; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003149}}
+  .flex-direction-nav .flex-next {
+    background-position: 100% 0;
+    right: -36px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003154}}
+  .flex-direction-nav .flex-prev {
+    left: -36px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003158}}
+  .flexslider:hover .flex-next {
+    opacity: 0.8;
+    right: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003163}}
+  .flexslider:hover .flex-prev {
+    opacity: 0.8;
+    left: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003168}}
+  .flexslider:hover .flex-next:hover,
+  .flexslider:hover .flex-prev:hover {
+    opacity: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003173}}
+  .flex-direction-nav .flex-disabled {
+    opacity: 0.3;
+    filter: alpha(opacity=30);
+    cursor: default; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003180}}
+  .flex-control-nav {
+    width: 100%;
+    position: absolute;
+    bottom: -40px;
+    text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003187}}
+  .flex-control-nav li {
+    margin: 0 6px;
+    display: inline-block;
+    zoom: 1;
+    *display: inline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003194}}
+  .flex-control-paging li a {
+    width: 11px;
+    height: 11px;
+    display: block;
+    background: #666666;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    text-indent: -9999px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-radius: 20px;
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003209}}
+  .flex-control-paging li a:hover {
+    background: #333333;
+    background: rgba(0, 0, 0, 0.7); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003214}}
+  .flex-control-paging li a.flex-active {
+    background: black;
+    background: rgba(0, 0, 0, 0.9);
+    cursor: default; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003220}}
+  .flex-control-thumbs {
+    margin: 5px 0 0;
+    position: static;
+    overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003226}}
+  .flex-control-thumbs li {
+    width: 25%;
+    float: left;
+    margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003232}}
+  .flex-control-thumbs img {
+    width: 100%;
+    display: block;
+    opacity: 0.7;
+    cursor: pointer; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003239}}
+  .flex-control-thumbs img:hover {
+    opacity: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003243}}
+  .flex-control-thumbs .flex-active {
+    opacity: 1;
+    cursor: default; } }
+@media only screen and (min-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003249}}
+  .flex-direction-nav .flex-prev {
+    opacity: 1;
+    left: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-base\.sass}line{font-family:\00003254}}
+  .flex-direction-nav .flex-next {
+    opacity: 1;
+    right: 0; } }
+@media only screen and (min-width: 25.0625em) {
+  /* Remove default outer styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-custom\.sass}line{font-family:\0000310}}
+  .flexslider {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 0; }
+
+  /* Reveal a snippet of the next slide. Percentage of all slides */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-custom\.sass}line{font-family:\0000319}}
+  .flex-active-slide + li {
+    left: -0.6425%;
+    position: relative; }
+
+  /* Override the default styles of the clickable areas. "Shadow" area on hover */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-custom\.sass}line{font-family:\0000325}}
+  .flex-direction-nav a {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: none;
+    height: 100%;
+    margin-top: 0;
+    top: 0;
+    width: 12.85%; }
+
+  /* Override the default position(s) of the Next clickable area */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-custom\.sass}line{font-family:\0000335}}
+  .flexslider .flex-next,
+  .flexslider:hover .flex-next {
+    right: 0; }
+
+  /* Override the default position(s) of the Previous clickable area */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-custom\.sass}line{font-family:\0000341}}
+  .flexslider .flex-prev,
+  .flexslider:hover .flex-prev {
+    left: 0; }
+
+  /* Override the default opacity of the clickable areas */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/flexslider-custom\.sass}line{font-family:\0000347}}
+  .flexslider .flex-next,
+  .flexslider .flex-prev,
+  .flexslider:hover .flex-next,
+  .flexslider:hover .flex-prev,
+  .flex-direction-nav .flex-disabled,
+  .flexslider:hover .flex-disabled,
+  .flexslider:hover .flex-disabled:hover {
+    opacity: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\000035}}
+.s-1 {
+  background-color: #ebedeb; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\000038}}
+  .s-1 .content {
+    color: #222222;
+    padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000312}}
+    .s-1 .content > article {
+      padding: 100px 6% 50px; }
+      @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000312}}
+        .s-1 .content > article {
+          padding-right: 18%;
+          padding-top: 75px; } }
+  @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000320}}
+    .s-1 .hero {
+      height: 600px;
+      margin-right: 12.5%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000324}}
+      .s-1 .hero.option-1, .s-1 .hero.option-2, .s-1 .hero.option-3 {
+        background-color: black;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000332}}
+      .s-1 .hero.option-1 {
+        background-image: url(/_/media/slide-home/hero-1-large.jpg); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000338}}
+      .s-1 .hero.option-2 {
+        background-image: url(/_/media/slide-home/hero-2-large.jpg); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000344}}
+      .s-1 .hero.option-3 {
+        background-image: url(/_/media/slide-home/hero-3-large.jpg); } }
+      @media only screen and (min-width: 25.0625em) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (-moz-min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-width: 25.0625em) and (min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (min-resolution: 192dpi), only screen and (min-width: 25.0625em) and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000332}}
+        .s-1 .hero.option-1 {
+          background-image: url(/_/media/slide-home/hero-1-large-2x.jpg); } }
+      @media only screen and (min-width: 25.0625em) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (-moz-min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-width: 25.0625em) and (min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (min-resolution: 192dpi), only screen and (min-width: 25.0625em) and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000338}}
+        .s-1 .hero.option-2 {
+          background-image: url(/_/media/slide-home/hero-2-large-2x.jpg); } }
+      @media only screen and (min-width: 25.0625em) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (-moz-min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-width: 25.0625em) and (min-device-pixel-ratio: 2), only screen and (min-width: 25.0625em) and (min-resolution: 192dpi), only screen and (min-width: 25.0625em) and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000344}}
+        .s-1 .hero.option-3 {
+          background-image: url(/_/media/slide-home/hero-3-large-2x.jpg); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000350}}
+  .s-1 .illustration {
+    max-width: 100%; }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000350}}
+      .s-1 .illustration {
+        float: left;
+        margin-top: 20px;
+        max-width: 240px; } }
+    @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000350}}
+      .s-1 .illustration {
+        max-width: 350px; } }
+    @media only screen and (min-width: 1620px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000350}}
+      .s-1 .illustration {
+        margin-top: 0; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000364}}
+    .s-1 h1,
+    .s-1 p {
+      margin-left: 250px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000364}}
+    .s-1 h1,
+    .s-1 p {
+      margin-left: 370px; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000372}}
+  .s-1 h1 {
+    color: #717073;
+    font-weight: 300; }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000372}}
+      .s-1 h1 {
+        font-size: 2.22222em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000035}}
+.s-2 {
+  background-color: #0d79bf; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000038}}
+  .s-2 video {
+    display: none;
+    visibility: hidden; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000038}}
+      .s-2 video {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 293px;
+        visibility: visible; } }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000038}}
+      .s-2 video {
+        float: right; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000322}}
+    .s-2 .illustration {
+      float: right; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000326}}
+  .s-2 .illustration img {
+    margin: 0 auto;
+    max-width: 147px; }
+    @media only screen and (min-width: 550px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000326}}
+      .s-2 .illustration img {
+        max-width: 293px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000333}}
+    .s-2 h1,
+    .s-2 p {
+      margin-right: 350px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000333}}
+    .s-2 h1,
+    .s-2 p {
+      margin-right: 380px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000341}}
+    .s-2 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000341}}
+    .s-2 h1 {
+      font-size: 4em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\000035}}
+.s-3 {
+  background-color: #15467a;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(53%, #15467a), color-stop(53%, #15467a));
+  background-image: -webkit-linear-gradient(#15467a 53%, #15467a 53%);
+  background-image: -moz-linear-gradient(#15467a 53%, #15467a 53%);
+  background-image: -o-linear-gradient(#15467a 53%, #15467a 53%);
+  background-image: linear-gradient(#15467a 53%, #15467a 53%); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000310}}
+  .s-3 .content {
+    padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000314}}
+  .s-3 #top-half,
+  .s-3 #bottom-half {
+    padding: 50px 6%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000318}}
+    .s-3 #top-half > *,
+    .s-3 #bottom-half > * {
+      max-width: 35em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000322}}
+  .s-3 #bottom-half {
+    background-color: #15467a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000326}}
+  .s-3 h1 {
+    margin-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000330}}
+  .s-3 .next-teaser {
+    display: none;
+    visibility: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000335}}
+  .s-3 .rotate-trigger {
+    display: none;
+    visibility: hidden; }
+  @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000343}}
+    .s-3 #top-half {
+      padding-right: 18%;
+      padding-top: 130px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000348}}
+    .s-3 #bottom-half {
+      padding-right: 18%;
+      padding-top: 50px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000356}}
+    .s-3 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000363}}
+    .s-3 h1 {
+      font-size: 4em; } }
+  @media only screen and (min-width: 1024px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\000035}}
+    .s-3 {
+      background-image: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000373}}
+      .s-3 .content {
+        padding: 130px 18% 50px 6%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000377}}
+      .s-3 #top-half,
+      .s-3 #bottom-half {
+        padding: 0 0 0 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000382}}
+      .s-3 #bottom-half {
+        background-color: transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000386}}
+      .s-3 .rotatable {
+        -webkit-backface-visibility: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000390}}
+      .s-3 .next-teaser {
+        display: block;
+        visibility: visible; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\0000395}}
+      .s-3 .rotate-trigger {
+        display: block;
+        margin: 50px 0;
+        visibility: visible; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\00003100}}
+        .s-3 .rotate-trigger:after {
+          background-color: rgba(255, 255, 255, 0.25);
+          content: "";
+          display: block;
+          height: 1px;
+          position: relative;
+          top: -26px;
+          width: 100%;
+          z-index: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\00003110}}
+        .s-3 .rotate-trigger span {
+          position: relative;
+          z-index: 2;
+          background: transparent url('../media/slide-analytics-targeting/rotate-trigger.png?1377628174') left top no-repeat;
+          border: 0;
+          display: block;
+          height: 54px;
+          overflow: hidden;
+          *text-indent: -999px;
+          width: 54px;
+          cursor: pointer;
+          height: 54px;
+          margin: 0 auto;
+          width: 54px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_mixin\/image-replace\.sass}line{font-family:\0000324}}
+          .s-3 .rotate-trigger span:before {
+            content: "";
+            display: block;
+            height: 150%;
+            width: 0; } }
+        @media only screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 1024px) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 1024px) and (-moz-min-device-pixel-ratio: 2), only screen and (min-width: 1024px) and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-width: 1024px) and (min-device-pixel-ratio: 2), only screen and (min-width: 1024px) and (min-resolution: 192dpi), only screen and (min-width: 1024px) and (min-resolution: 2dppx) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-and-online\.sass}line{font-family:\00003110}}
+          .s-3 .rotate-trigger span {
+            background-image: url('../media/slide-analytics-targeting/rotate-trigger-2x.png?1377628174');
+            -webkit-background-size: 100%;
+            background-size: 100%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000035}}
+.s-4 {
+  background-color: #e58824; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000038}}
+  .s-4 video {
+    display: none;
+    visibility: hidden; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000038}}
+      .s-4 video {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 293px;
+        visibility: visible; } }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000038}}
+      .s-4 video {
+        float: right; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000322}}
+  .s-4 img {
+    margin: 0 auto;
+    max-width: 147px; }
+    @media only screen and (min-width: 550px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000322}}
+      .s-4 img {
+        max-width: 293px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000329}}
+    .s-4 h1,
+    .s-4 p {
+      margin-right: 350px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000329}}
+    .s-4 h1,
+    .s-4 p {
+      margin-right: 380px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000337}}
+    .s-4 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000337}}
+    .s-4 h1 {
+      font-size: 4em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\000035}}
+.s-5 {
+  background-color: #0d79bf; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\000038}}
+  .s-5 video {
+    display: none;
+    visibility: hidden; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\000038}}
+      .s-5 video {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 293px;
+        visibility: visible; } }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\000038}}
+      .s-5 video {
+        float: right; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000322}}
+    .s-5 .illustration {
+      float: right; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000326}}
+  .s-5 .illustration img {
+    margin: 0 auto;
+    max-width: 147px; }
+    @media only screen and (min-width: 550px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000326}}
+      .s-5 .illustration img {
+        max-width: 293px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000333}}
+    .s-5 h1,
+    .s-5 p {
+      margin-right: 350px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000333}}
+    .s-5 h1,
+    .s-5 p {
+      margin-right: 380px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000341}}
+    .s-5 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000341}}
+    .s-5 h1 {
+      font-size: 4em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\000035}}
+.s-6 {
+  background-color: #7cc57c; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\000038}}
+  .s-6 video {
+    display: none;
+    visibility: hidden; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\000038}}
+      .s-6 video {
+        display: block;
+        margin: 0 0 50px 30px;
+        max-width: 693px;
+        visibility: visible; } }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\000038}}
+      .s-6 video {
+        float: right; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000321}}
+  .s-6 img {
+    margin: 0 auto;
+    max-width: 147px; }
+    @media only screen and (min-width: 550px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000321}}
+      .s-6 img {
+        max-width: 693px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000328}}
+    .s-6 h1,
+    .s-6 p {
+      margin-right: 350px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000328}}
+    .s-6 h1,
+    .s-6 p {
+      margin-right: 380px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000336}}
+    .s-6 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000336}}
+    .s-6 h1 {
+      font-size: 4em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\000035}}
+.s-7 {
+  background-color: #15467a; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\000038}}
+    .s-7 .illustration {
+      float: right; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000312}}
+  .s-7 .illustration img {
+    margin: 0 auto;
+    max-width: 147px; }
+    @media only screen and (min-width: 550px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000312}}
+      .s-7 .illustration img {
+        max-width: 293px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000319}}
+    .s-7 h1,
+    .s-7 p {
+      margin-right: 350px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000319}}
+    .s-7 h1,
+    .s-7 p {
+      margin-right: 380px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000327}}
+    .s-7 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000327}}
+    .s-7 h1 {
+      font-size: 4em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\000035}}
+.s-8 {
+  background-color: #0d79bf; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000311}}
+    .s-8 h1 {
+      font-size: 3em; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000311}}
+    .s-8 h1 {
+      font-size: 4em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000321}}
+  .s-8 .buttons {
+    margin-bottom: 40px;
+    text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000325}}
+    .s-8 .buttons a {
+      background-color: #1b6ea3;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      -ms-border-radius: 5px;
+      -o-border-radius: 5px;
+      border-radius: 5px;
+      color: white;
+      display: inline-block;
+      font-size: 0.9em;
+      margin-left: 0.5em;
+      padding: 0.5em 1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000334}}
+      .s-8 .buttons a:hover, .s-8 .buttons a:focus {
+        background-color: #00406a;
+        text-decoration: none; }
+    @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000321}}
+      .s-8 .buttons {
+        margin-bottom: 90px;
+        text-align: right; } }
+  @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000349}}
+    .s-8 .content {
+      padding-top: 100px; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000354}}
+    .s-8 .content {
+      padding-top: 72px; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000359}}
+    .s-8 .events-wrap {
+      float: left;
+      width: 60%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000363}}
+    .s-8 .news-wrap {
+      float: right;
+      width: 35%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000378}}
+.events-wrap,
+.news-wrap {
+  clear: right;
+  margin-bottom: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000385}}
+  .events-wrap ol,
+  .news-wrap ol {
+    margin: 0 0 1em;
+    padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000390}}
+  .events-wrap li,
+  .news-wrap li {
+    list-style: none !important;
+    margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000396}}
+    .events-wrap li a,
+    .news-wrap li a {
+      background-color: #1b6ea3;
+      color: white;
+      display: block;
+      padding: 25px 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003103}}
+      .events-wrap li a .event-name,
+      .news-wrap li a .event-name {
+        display: block; }
+        @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003103}}
+          .events-wrap li a .event-name,
+          .news-wrap li a .event-name {
+            float: left;
+            width: 50%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003110}}
+      .events-wrap li a .event-date,
+      .events-wrap li a .event-location,
+      .news-wrap li a .event-date,
+      .news-wrap li a .event-location {
+        color: #99c3de;
+        display: block;
+        float: right;
+        margin-top: 0.5em;
+        width: 15%; }
+        @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003110}}
+          .events-wrap li a .event-date,
+          .events-wrap li a .event-location,
+          .news-wrap li a .event-date,
+          .news-wrap li a .event-location {
+            margin-top: 0;
+            text-align: right;
+            width: 12%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003123}}
+      .events-wrap li a .event-location,
+      .news-wrap li a .event-location {
+        float: left;
+        width: 75%; }
+        @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003123}}
+          .events-wrap li a .event-location,
+          .news-wrap li a .event-location {
+            float: right;
+            margin-right: 20px;
+            width: 28%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003132}}
+      .events-wrap li a:hover, .events-wrap li a:focus,
+      .news-wrap li a:hover,
+      .news-wrap li a:focus {
+        background-color: #00406a;
+        text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003137}}
+        .events-wrap li a:hover .event-date,
+        .events-wrap li a:hover .event-location, .events-wrap li a:focus .event-date,
+        .events-wrap li a:focus .event-location,
+        .news-wrap li a:hover .event-date,
+        .news-wrap li a:hover .event-location,
+        .news-wrap li a:focus .event-date,
+        .news-wrap li a:focus .event-location {
+          color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003144}}
+    .events-wrap li:nth-child(2n + 2) a,
+    .news-wrap li:nth-child(2n + 2) a {
+      background-color: #1a74ae; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003147}}
+      .events-wrap li:nth-child(2n + 2) a:hover, .events-wrap li:nth-child(2n + 2) a:focus,
+      .news-wrap li:nth-child(2n + 2) a:hover,
+      .news-wrap li:nth-child(2n + 2) a:focus {
+        background-color: #00406a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003154}}
+  .events-wrap .see-all,
+  .news-wrap .see-all {
+    color: white; }
+    @media only screen and (min-width: 25.0625em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003154}}
+      .events-wrap .see-all,
+      .news-wrap .see-all {
+        float: right; } }
+  @media only screen and (min-width: 56.3125em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\0000378}}
+    .events-wrap,
+    .news-wrap {
+      margin-bottom: 0; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-news-events\.sass}line{font-family:\00003165}}
+.news-wrap {
+  margin-bottom: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\000033}}
+#modal-overlay {
+  background: black;
+  display: none;
+  height: 100%;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 100; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000316}}
+.modal {
+  background-color: white;
+  display: none;
+  padding: 25px;
+  max-width: 600px;
+  color: #222222; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000323}}
+  .modal h1 {
+    margin-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000326}}
+  .modal ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000331}}
+  .modal li {
+    margin-bottom: 1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000333}}
+    .modal li:last-child {
+      margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000336}}
+  .modal [type="text"],
+  .modal [type="email"],
+  .modal textarea {
+    display: block;
+    width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000343}}
+  .modal [type="submit"] {
+    padding: 8px;
+    border: none;
+    background: #049cdb; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/non-slide-general\.sass}line{font-family:\000036}}
+.main {
+  padding: 100px 6% 50px; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/non-slide-general\.sass}line{font-family:\000036}}
+    .main {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 75em; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\000039}}
+.management-team .content-wrap {
+  padding: 100px 6% 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000313}}
+.team-intro {
+  margin-bottom: 50px; }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000313}}
+    .team-intro {
+      float: right;
+      width: 45%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000320}}
+      .team-intro h1 {
+        margin-top: 0; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000324}}
+.team-headshots {
+  list-style: none;
+  margin-bottom: 50px;
+  padding-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000330}}
+  .team-headshots li {
+    float: left;
+    margin: 0;
+    width: 33.3%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000335}}
+  .team-headshots img {
+    width: 100%; }
+    @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000335}}
+      .team-headshots img {
+        opacity: 0.3; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000341}}
+        .team-headshots img:hover, .team-headshots img:focus, .team-headshots img.selected {
+          opacity: 1; } }
+  @media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000324}}
+    .team-headshots {
+      float: left;
+      width: 45%; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000353}}
+.team-bios > article {
+  margin-bottom: 50px; }
+@media only screen and (min-width: 46.9375em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000351}}
+  .team-bios {
+    float: right;
+    width: 45%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/management-team\.sass}line{font-family:\0000360}}
+    .team-bios h1 {
+      margin-top: 0; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\000038}}
+.hidden {
+  display: none !important;
+  visibility: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000315}}
+.invisible {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000328}}
+.clearfix, .s-1 .content,
+.s-2 .content,
+.s-3 .content,
+.s-4 .content,
+.s-5 .content,
+.s-6 .content,
+.s-7 .content,
+.s-8 .content, header nav, .events-wrap,
+.news-wrap, .events-wrap li a,
+.news-wrap li a, .management-team, .team-headshots {
+  *zoom: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000329}}
+  .clearfix:before, .s-1 .content:before,
+  .s-2 .content:before,
+  .s-3 .content:before,
+  .s-4 .content:before,
+  .s-5 .content:before,
+  .s-6 .content:before,
+  .s-7 .content:before,
+  .s-8 .content:before, header nav:before, .events-wrap:before,
+  .news-wrap:before, .events-wrap li a:before,
+  .news-wrap li a:before, .management-team:before, .team-headshots:before, .clearfix:after, .s-1 .content:after,
+  .s-2 .content:after,
+  .s-3 .content:after,
+  .s-4 .content:after,
+  .s-5 .content:after,
+  .s-6 .content:after,
+  .s-7 .content:after,
+  .s-8 .content:after, header nav:after, .events-wrap:after,
+  .news-wrap:after, .events-wrap li a:after,
+  .news-wrap li a:after, .management-team:after, .team-headshots:after {
+    content: " ";
+    display: table; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/helpers\.sass}line{font-family:\0000334}}
+  .clearfix:after, .s-1 .content:after,
+  .s-2 .content:after,
+  .s-3 .content:after,
+  .s-4 .content:after,
+  .s-5 .content:after,
+  .s-6 .content:after,
+  .s-7 .content:after,
+  .s-8 .content:after, header nav:after, .events-wrap:after,
+  .news-wrap:after, .events-wrap li a:after,
+  .news-wrap li a:after, .management-team:after, .team-headshots:after {
+    clear: both; }
+
+@media print {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\000032}}
+  * {
+    background: transparent !important;
+    box-shadow: none !important;
+    color: black !important;
+    filter: none !important;
+    -ms-filter: none !important;
+    text-shadow: none !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000311}}
+  a, a:visited {
+    text-decoration: underline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000315}}
+  a[href]:after {
+    content: " (" attr(href) ")"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000319}}
+  abbr[title]:after {
+    content: " (" attr(title) ")"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000323}}
+  pre, blockquote {
+    border: 1px solid #999999;
+    page-break-inside: avoid; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000328}}
+  thead {
+    display: table-header-group; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000332}}
+  tr, img {
+    page-break-inside: avoid; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000336}}
+  img {
+    max-width: 100% !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000340}}
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_print\.sass}line{font-family:\0000345}}
+  h2, h3 {
+    page-break-after: avoid; } }

@@ -1,0 +1,34 @@
+// ============================================================
+// The image-replace mixin has one required parameter,
+// which must be an image file located in '/_/media/'. It will
+// also accept a second parameter, an image file also located
+// in '/_/media/', which should be a @2x image for high
+// resolution screens. Height and width are measured
+// automatically.
+// ============================================================
+// Example usage:
+// .logo
+// 		+ir("logo.png", "logo@2x.png")
+// ============================================================
+
+
+@mixin ir($image, $image2x:"")
+	background: transparent image-url($image) left top no-repeat
+	border: 0
+	display: block
+	height: image-height($image)
+	overflow: hidden
+	*text-indent: -999px
+	width: image-width($image)
+
+	&:before
+		content: ""
+		display: block
+		height: 150%
+		width: 0
+
+	@if $image2x != ""
+		+mq-2x
+			background-image: image-url($image2x)
+			-webkit-background-size: 100%
+			background-size: 100%

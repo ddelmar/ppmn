@@ -1,0 +1,290 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000311}}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000328}}
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000338}}
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000346}}
+[hidden] {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000358}}
+html {
+  font-size: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000366}}
+html,
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000376}}
+body {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000387}}
+a:focus {
+  outline: thin dotted; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\0000393}}
+a:active,
+a:hover {
+  outline: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003105}}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003109}}
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003113}}
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003117}}
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003121}}
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003125}}
+h6 {
+  font-size: 0.67em;
+  margin: 2.33em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003132}}
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003138}}
+b,
+strong {
+  font-weight: bold; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003143}}
+blockquote {
+  margin: 1em 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003149}}
+dfn {
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003156}}
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003164}}
+mark {
+  background: yellow;
+  color: black; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003171}}
+p,
+pre {
+  margin: 1em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003178}}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  _font-family: "courier new", monospace;
+  font-size: 1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003189}}
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003197}}
+q {
+  quotes: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003203}}
+q:before,
+q:after {
+  content: "";
+  content: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003211}}
+small {
+  font-size: 80%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003217}}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003224}}
+sup {
+  top: -0.5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003227}}
+sub {
+  bottom: -0.25em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003238}}
+dl,
+menu,
+ol,
+ul {
+  margin: 1em 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003244}}
+dd {
+  margin: 0 0 0 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003250}}
+menu,
+ol,
+ul {
+  padding: 0 0 0 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003258}}
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none;
+  padding-left: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003273}}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003280}}
+svg:not(:root) {
+  overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003291}}
+figure {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003302}}
+form {
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003308}}
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003318}}
+legend {
+  border: 0;
+  padding: 0;
+  white-space: normal;
+  *margin-left: -7px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003329}}
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003341}}
+button,
+input {
+  line-height: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003351}}
+button,
+select {
+  text-transform: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003362}}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+  *overflow: visible; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003373}}
+button[disabled],
+html input[disabled] {
+  cursor: default; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003383}}
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+  *height: 13px;
+  *width: 13px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003395}}
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003404}}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003411}}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003420}}
+textarea {
+  overflow: auto;
+  vertical-align: top; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/normalize\.sass}line{font-family:\00003432}}
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }

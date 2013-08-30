@@ -1,0 +1,46 @@
+// Default styles for the modal overlay (the dark area *behind* the content).
+
+#modal-overlay
+	background: #000
+	display: none
+	height: 100%
+	left: 0px
+	position: fixed
+	top: 0px
+	width: 100%
+	z-index: 100
+
+
+// Default styles for the modal content.
+
+.modal
+	background-color: #fff
+	display: none
+	padding: 25px
+	max-width: 600px
+	color: $base-font-color
+
+	h1
+		margin-top: 0
+
+	ul
+		list-style: none
+		margin: 0
+		padding-left: 0
+
+	li
+		margin-bottom: 1em
+		&:last-child
+			margin-bottom: 0
+
+	[type="text"],
+	[type="email"],
+	textarea
+		display: block
+		width: 100%
+		
+	input
+	[type="submit"]
+		padding: 8px
+		border: none
+		background: $blue

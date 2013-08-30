@@ -1,0 +1,209 @@
+// ============================================================
+// Base styles for this site (above and beyond what normalize.sass defines).
+// ============================================================
+
+
+*
+	-webkit-box-sizing: border-box
+	-moz-box-sizing: border-box
+	box-sizing: border-box
+
+
+html,
+button,
+input,
+select,
+textarea
+	color: white
+	font-family: $sans-stack
+	font-weight: 300
+
+
+html
+	background-color: $blue
+
+
+body
+	font-size: $base-font-size
+	line-height: $base-line-height
+
+
+hr
+	display: block
+	height: 1px
+	border: 0
+	border-top: 1px solid #999
+	margin: 1em 0
+	padding: 0
+
+
+img
+	vertical-align: middle
+
+
+p
+	// Add site-specific declaration(s).
+
+
+// Forms.
+
+fieldset
+	border: 0
+	margin: 0
+	padding: 0
+
+
+textarea
+	resize: vertical
+
+
+// List(s).
+
+ol,
+ul,
+dd
+	margin-left: 0
+	padding-left: 32px
+
+	ol,
+	ul
+		margin: .5em 0
+
+
+li
+	margin-bottom: .5em
+
+
+// Blockquotes.
+
+blockquote
+	margin-left: 32px
+
+	p
+		font-style: italic
+
+
+// Code.
+
+pre
+	font-family: $mono-stack
+	font-size: 0.875em // 14px
+	overflow: scroll
+
+	code
+		display: block
+		padding: 1em 16px
+
+
+code
+	// Add site-specific declaration(s).
+
+
+// Links.
+
+a
+	color: $link-color
+	text-decoration: none
+
+	&:hover,
+	&:focus
+		color: $link-color-hover
+		text-decoration: underline
+
+	&:visited
+		color: $link-color
+
+
+// Headings.
+
+h1, h2, h3, h4, h5, h6
+	font-family: $header-stack
+	font-weight: 100
+	letter-spacing: 1px
+
+
+h1
+	font-size: 2em // 32px
+	margin: 1em 0 .1em
+
+
+h2
+	font-size: 1.625em // 26px
+	margin: 1em 0 .1em
+
+
+h3
+	font-size: 0.9375em // 15px
+	margin: 1.75em 0 .2em
+
+
+h4
+	font-size: 0.8125em // 13px
+	margin: 1.75em 0 .2em
+
+
+h5
+	font-size: 0.8125em // 13px
+	margin: 1.75em 0 .4em
+
+
+h6
+	font-size: 0.8125em // 13px
+	margin: 1.75em 0 .4em
+
+
+// ============================================================
+// Common selectors for slides.
+// ============================================================
+
+
+// Below are selectors that work across all slides. For all other selectors, which are unique to individual slides, see the files /_/sass/_module/slide-[name].sass.
+
+.s-1,
+.s-2,
+.s-3,
+.s-4,
+.s-5,
+.s-6,
+.s-7,
+.s-8
+	font-size: 1.125em // 18px
+
+	.content
+		@extend .clearfix
+		color: #fff
+		padding: 50px 6%
+
+		li
+			list-style: disc
+
+		+mq-min-width($bp-small)
+			padding-top: 130px
+			padding-right: 18%
+
+	h1
+		font-size: 1.75em // 28px
+		line-height: 1
+		margin: 0 0 .5em // 0 0 8px
+
+		+mq-min-width($bp-small)
+			font-size: 2em // 32px
+			margin-top: 1.25em // 20px
+
+		+mq-min-width($bp-medium)
+			margin-top: 0
+
+	p
+		margin-bottom: 0
+
+
+// ============================================================
+// Chrome frame prompt.
+// ============================================================
+
+
+.chromeframe
+	margin: 0.2em 0
+	background: #ccc
+	color: #000
+	padding: 0.2em 0

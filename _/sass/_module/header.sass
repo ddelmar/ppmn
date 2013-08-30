@@ -1,0 +1,131 @@
+// ============================================================
+// Header selectors.
+// ============================================================
+
+
+header
+	+single-box-shadow(rgba(0,1,1,.35), 0, 1px, 2px)
+	background-color: #f5f5f5
+	bottom: 115%
+	padding: 20px 12% 20px 6%
+	position: absolute
+	width: 100%
+	z-index: 100
+
+	&.tab-in-view
+		bottom: 99.1%
+
+	&.all-in-view
+		bottom: auto
+
+	&.with-animation
+		-moz-transition: bottom .2s
+		-webkit-transition: bottom .2s
+		-ms-transition: bottom .2s
+		-o-transition: bottom .2s
+		transition: bottom .2s
+
+	nav
+		@extend .clearfix
+
+	+mq-min-width($bp-medium)
+		padding-bottom: 40px
+		padding-top: 40px
+
+
+.nav-list
+	font-size: 0.875em // 14px
+	margin: 0
+
+	li
+		margin: 1em 0
+
+		+mq-min-width($bp-medium)
+			margin-bottom: .75em
+			margin-top: .75em
+
+	a
+		font-weight: bold
+
+	+mq-min-width($bp-medium)
+		float: left
+
+
+.nl-1
+	+mq-min-width($bp-medium)
+		padding-right: 60px
+		width: 22%
+
+
+.nl-2
+	border-bottom: 1px solid #e6e6e6
+	border-top: 1px solid #e6e6e6
+
+	+mq-min-width($bp-medium)
+		border: none
+		border-left: 1px solid #e6e6e6
+		border-right: 1px solid #e6e6e6
+		padding-left: 60px
+		padding-right: 60px
+		width: 49.6%
+
+
+.nl-3
+	a
+		font-weight: normal
+
+	+mq-min-width($bp-medium)
+		padding-left: 60px
+		width: 28.4%
+
+
+.nav-link-description
+	color: #666
+	display: block
+
+
+.nav-tab
+	+ir("main-nav-tab.png", "main-nav-tab-2x.png")
+	height: 28px
+	left: 50%
+	margin-left: -104px
+	margin-top: -1px
+	position: absolute
+	top: 100%
+	width: 209px
+	z-index: 101
+
+	&:focus
+		outline: none
+
+	.all-in-view &
+		+ir("main-nav-tab-inverted.png", "main-nav-tab-inverted-2x.png")
+
+
+.pp-logo-1,
+.pp-logo-2
+	height: 22px
+	width: 222px
+
+
+.pp-logo-1 a
+	+ir("pp-logo-color.png", "pp-logo-color-2x.png")
+	clear: left
+	margin: 20px 0 14px
+
+	+mq-min-width($bp-medium)
+		margin-bottom: 0
+		margin-top: 48px
+
+
+.pp-logo-2
+	left: 6%
+	position: absolute
+	top: 53px
+	z-index: 50 // This places the element above the slides and below the header/nav.
+
+	a
+		+ir("pp-logo-white.png", "pp-logo-white-2x.png")
+
+	+mq-min-width($bp-medium)
+		top: 33px
