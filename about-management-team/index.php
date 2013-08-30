@@ -11,8 +11,11 @@
 
 		<article class="content-wrap">
 			<div class="team-intro">
-				<h1>The Management Team</h1>
-				<p></p>
+				<h1>Patrick R. Gauthier</h1>
+				<p>Patrick Gauthier is the Head of PayPal’s Emerging Services group in the Enterprise Solution division. He manages principally the PayPal Prepaid and PayPal Media Network businesses. The Enterprise Solutions division is driving PayPal’s omni-channel strategy and solutions for large retailers and partner networks.</p>
+				<p>Patrick is a payments and commerce innovation specialist, with 20 years of experience managing products, sales, innovation and corporate venture with startups, Visa Inc. and Schlumberger Electronic Transactions.</p>
+				<p>Patrick has also held positions on the board of directors of a number of e-commerce and m-commerce startups. He is currently an advisor to Tyfone and Sequent Software, two companies pioneering <abbr title="Near field communication">NFC</abbr> solutions and a <span lang="FR">Conseiller du Commerce Extérieur de la France</span>, one of the oldest public/private economic partnerships in the world.</p>
+				<p>Patrick holds a Master’s degree in Telecommunications Engineering from Telecom Sud-Paris in France.</p>
 			</div><!-- .team-intro -->
 
 			<ul class="team-headshots">
@@ -22,7 +25,7 @@
 							<div data-src="/_/media/management-team/PatrickGauthier1x.jpg"></div>
 							<div data-src="/_/media/management-team/PatrickGauthier2x.jpg" data-media="only screen and (-webkit-min-device-pixel-ratio:2), only screen and (min--moz-device-pixel-ratio:2), only screen and (-o-min-device-pixel-ratio:2/1), only screen and (min-device-pixel-ratio:2), only screen and (min-resolution:192dpi), only screen and (min-resolution:2dppx)"></div>
 							<noscript>
-								<img src="/_/media/management-team/PatrickGauthier1x.jpg" alt="Patrick Gauthier" />
+								<img src="/_/media/management-team/PatrickGauthier1x.jpg" alt="Patrick Gauthier" class="selected"/>
 							</noscript>
 						</div>
 					</a>

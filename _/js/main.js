@@ -267,6 +267,7 @@
 
         // Hide every article within the .team-bios container.
         $('.team-bios article').hide();
+		
 
         // When a single team headshot anchor is clicked, to more magic.
         $('.team-headshots a').click(function (e) {
@@ -297,6 +298,10 @@
             // Stop the default event from executing.
             e.preventDefault();
         });
+		setTimeout(function(){
+			$('.patrick-gauthier img').addClass('selected');
+			},1500);
+		
     }
 
 
