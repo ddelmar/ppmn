@@ -15,7 +15,7 @@
 
 					<li><a target="_blank" href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">Geo-fencing drive 68 pc lift in response for convenience, gas merchants: PayPal</a></li>
 					<li><a target="_blank" href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</a></li>
-					<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">Best Western mobile ad campaign generates .95 CTR</a></li>
+					<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">Best Western mobile ad campaign generates .95% CTR</a></li>
 
 
 				</ol>

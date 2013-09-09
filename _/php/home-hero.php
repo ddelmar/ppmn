@@ -26,10 +26,13 @@ class Slides
      * @return void
      */
 
+    /* not randomizing before launch per marketing team
+    
     public function set_random($min = 1, $max = 1)
     {
         $this->random = rand($min, $max);
     }
+    */
 
     /**
      * Sets the slide for the object, randomly selects an image from the array

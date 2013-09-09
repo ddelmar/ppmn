@@ -12,9 +12,7 @@
 		<ul class="nav-list nl-2">
 			<li><a href="/#creative" class="slide-link">Creative</a></li>
 			<li>
-				<a href="/#closed-loop-offers" class="slide-link">Closed Loop Offers</a><span class="invisible">:</span>
-				<span class="nav-link-description">Large-scale enterprises are engaging with their customers in a way that has never been done before.</span>
-			</li>
+				<a href="/#closed-loop-offers" class="slide-link">Offers</a></li>
 			<li><a href="/#news-and-events" class="slide-link">News and Events</a></li>
 		</ul><!-- .nav-list .nl-2 -->
 

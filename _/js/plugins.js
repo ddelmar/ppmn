@@ -1257,7 +1257,7 @@
     $.fn.extend({
         leanModal: function(options) {
             var defaults = {
-                top: 100,
+                top: 3,
                 overlay: 0.75,
                 closeButton: null
             }
