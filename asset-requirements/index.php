@@ -9,14 +9,13 @@
 		<div class="main">
 			<?php require_once('../_/inc/second-pp-logo.php'); ?>
 
-
 			<h1>Asset Requirements</h1>
 			
 			<h2>Banners</h2>
 			<ul>
 				<li>File Type: Layered PSD (Photoshop)</li>
 				<li>Sizes: 640x100 (Mobile), 728x90, 300x250 (Tablet)
-				<li>Dynamic Location:PPMN displays address and proximity on the bottom 25% of the banner, with location left justified and proximity right justified. Proximity is always viewed as X.Xmi away. Dynamic text is displayed in web Helvetica, for its legibility at small size, in white or black Dynamic text options: Retail name and proximity, street address and/or proximity</li></ul>
+				<li>Dynamic Location: PPMN displays address and proximity on the bottom 25% of the banner, with location left justified and proximity right justified. Proximity is always viewed as X.Xmi away. Dynamic text is displayed in web Helvetica, for its legibility at small size, in white or black Dynamic text options: Retail name and proximity, street address and/or proximity</li></ul>
 			
 			<h2>Rich Media</h2>
 			<ul>
@@ -30,7 +29,7 @@
 				<li>All full-width landing page creative must be at least 640px wide</li>
 				<li>Specify colors and font styles (if specific match required)</li>
 				<li>Provide fonts in .ttf (TrueType) format</li>
-				<li>Dynamic Location: If nearest location list is displayed, PPMN will use agency/brand provided header but must build landing page in-house</li>
+				<li>Dynamic Location: If nearest location list is displayed, PPMN will use agency/brand provided header but must build landing page in house</li>
 				<li>Timeline: Agency/brand must approve all designs 10 business days before launch</li>
 			</ul>
 			
@@ -48,8 +47,8 @@
 			<h2>Required for Non-Standard Landing Page</h2>
 			<ul>
 				<li>PPMN designs and builds custom HTML5 rich media in house</li>
-				<li>If landing page includes external links (Facebook, Twitter, retailer mobile site, etc), provide URLs for each link</li>
-				<li>If landing page includes video, send URL (Vimeo, Wistia, YouTube, etc.) or send video as .mp4 file at 640 px, < 800 KB, < 30 seconds (iPhone, Android)</li>
+				<li>If landing page includes external links (Facebook&trade;, Twitter&trade;, retailer mobile site, etc), provide URLs for each link</li>
+				<li>If landing page includes video, send URL (Vimeo&trade;, Wistia&trade;, YouTube&trade;, etc.) or send video as .mp4 file at 640 px, < 800 KB, < 30 seconds (iPhone&trade;, Android&trade;)</li>
 			</ul>
 			
 			
@@ -58,7 +57,7 @@
 			
 			<h2>Third Party Reporting</h2>
 			<ul>
-				<li>PPMN's preferred third party reporting partners are DART and MediaMind. Any other vendors need to be tested and approved by PPMN</li>
+				<li>PPMN's preferred third party reporting partners are DART&trade; and MediaMind&trade;. Any other vendors need to be tested and approved by PPMN</li>
 				<li>PPMN can run impression tags or 1x1 pixels and click commands</li>
 				<li>Client to provide tags in Excel or CSV format broken out by IO placement</li>
 				<li>Access to third party reporting must be given within 24 hours of launch, or campaign will be paused until access to reporting is granted</li>

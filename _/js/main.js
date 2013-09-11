@@ -264,10 +264,33 @@
 
     // If the viewport is 46.9375em (751px) or greater, do magic.
     if (matchMedia('only screen and (min-width:46.9375em)').matches) {
-
+    
         // Hide every article within the .team-bios container.
-        $('.team-bios article').hide();
-		
+        $('.team-bios article').hide().eq(0).show();
+
+        // Mouseover show title
+        $('.team-headshots a').mouseover(function() {
+            if ($(this).parent().find('img').hasClass('selected')){return;}
+            else{
+                var imgWid = $(this).parent().find('img').width();
+                var imgHei = $(this).parent().find('img').height();
+                var overlaystyles = {
+                  width : imgWid,
+                  height: imgHei,
+                  display: "block"
+                };
+
+                $(this).parent().find('.titleoverlay').css(overlaystyles);
+                
+            }
+        });
+        $('.team-headshots a').mouseout(function() {
+            
+            if (!($(this).parent().find('img').hasClass('selected'))){
+             $(this).parent().find('.titleoverlay').css("display", "none");
+                $(this).parent().find('img').css("opacity", 0.3);
+            }
+        });
 
         // When a single team headshot anchor is clicked, to more magic.
         $('.team-headshots a').click(function (e) {
@@ -293,14 +316,15 @@
             $('.team-bios ' + $(this).attr('href')).fadeIn('fast');
 
             // Add a class of selected to the team headshot that was clicked.
-            $(this).find('img').addClass('selected');
-
+            $(this).find('img').addClass('selected').css("opacity", "");
+          //  $(this).parent().find('img').css("opacity", 0);
+             $(this).find('.titleoverlay').css("display", "none");
             // Stop the default event from executing.
             e.preventDefault();
         });
 		setTimeout(function(){
-			$('.patrick-gauthier img').addClass('selected');
-			},1500);
+            $('.patrick-gauthier img').addClass('selected');
+            },500);
 		
     }
 
