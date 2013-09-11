@@ -10,9 +10,7 @@
 
 
 		<article class="content-wrap">
-			<div class="team-intro">
-				
-			</div><!-- .team-intro -->
+			
 
 			<ul class="team-headshots">
 				<li class="patrick-gauthier">

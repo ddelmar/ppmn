@@ -21,7 +21,15 @@
 				-------------------------------------------------------------- */ ?>
 				<li class="s-1" id="home">
 					<div class="content">
-						<div class="hero"><!-- this empty element exists to render the large hero image --></div>
+						<div class="hero option-1"><!-- this empty element exists to render the large hero image -->
+						<?php /*
+						++++++++++++++++++++++
+						When the hero image is dynamic and random, here's what that should look like:
+						<div class="hero option-<?php echo $slide->random ?>"><!-- this empty element exists to render the large hero image --></div>
+						
+						Also, don't forget to un-comment out that second variable in the PHP up top
+						*/?>
+						</div>
 						<article>
 							<div data-picture data-alt="An illustration of a point-of-sale machine accepting PayPal" class="illustration">
 								<div data-src="/_/media/slide-home/illustration.png" data-media="only screen and (min-width:25.0625em)"></div>
