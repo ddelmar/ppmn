@@ -1030,7 +1030,7 @@ header {
   @media only screen and (min-width: 25.0625em) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000320}}
     .s-1 .hero {
-      height: 600px;
+      height: 500px;
       margin-right: 12.5%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-home\.sass}line{font-family:\0000324}}
       .s-1 .hero.option-1, .s-1 .hero.option-2, .s-1 .hero.option-3 {
@@ -1097,7 +1097,7 @@ header {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000035}}
 .s-2 {
-  background-color: #0d79bf; }
+  background: #0d79bf; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000038}}
   .s-2 video {
     display: none;
@@ -1265,7 +1265,7 @@ header {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000035}}
 .s-4 {
-  background-color: #e58824; }
+  background: #e58824; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000038}}
   .s-4 video {
     display: none;
@@ -1361,7 +1361,7 @@ header {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\000035}}
 .s-6 {
-  background-color: #7cc57c; }
+  background: #7cc57c; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\000038}}
   .s-6 video {
     display: none;
