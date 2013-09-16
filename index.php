@@ -60,7 +60,7 @@
 							else if (Modernizr.video && document.documentElement.clientWidth > 400) {
 
 								// Write the video element to the DOM
-								document.write('<video autoplay="autoplay" loop="loop" class="creative-video"><source src="/resource/media/slide-about/about.webm" type=\'video/webm; codecs="vp8, vorbis"\' /><source src="/_/media/slide-about/about.mp4" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\' /><source src="/_/media/slide-about/about.ogv" type=\'video/ogg; codecs="theora, vorbis"\' /></video>');
+								document.write('<div class="videoContainer about"><video autoplay="autoplay" loop="loop" class="creative-video"><source src="/resource/media/slide-about/about.webm" type=\'video/webm; codecs="vp8, vorbis"\' /><source src="/_/media/slide-about/about.mp4" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\' /><source src="/_/media/slide-about/about.ogv" type=\'video/ogg; codecs="theora, vorbis"\' /></video></div>');
 							}
 
 							// If none of the two conditionals return true, nothing happens. That's what we want: if your viewport is 400 pixels wide, or below, "YOU GET NOTHING." — Willy Wonka
@@ -113,17 +113,17 @@
 						<script>
 
 							// If Modernizr reports that the <video> element IS NOT supported AND the viewport is above 400px wide...
-							if (!Modernizr.video && document.documentElement.clientWidth > 400) {
+							if (!Modernizr.video && document.documentElement.clientWidth > 770) {
 
 								// Write a fall-back image to the DOM
 								document.write('<img src="/resource/media/slide-mobile/mobile.png" />');
 							}
 
 							// Else, if Modernizr reports that the <video> element IS supported AND the viewport is above 400px wide...
-							else if (Modernizr.video && document.documentElement.clientWidth > 400) {
+							else if (Modernizr.video && document.documentElement.clientWidth > 770) {
 
 								// Write the video element to the DOM
-								document.write('<video autoplay="autoplay" loop="loop" class="creative-video"><source src="/_/media/slide-mobile/mobile.webm" type=\'video/webm; codecs="vp8, vorbis"\' /><source src="/_/media/slide-mobile/mobile.mp4" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\' /><source src="/_/media/slide-mobile/mobile.ogv" type=\'video/ogg; codecs="theora, vorbis"\' /></video>');
+								document.write('<div class="videoContainer mobile"><video autoplay="autoplay" loop="loop" class="creative-video"><source src="/_/media/slide-mobile/mobile.webm" type=\'video/webm; codecs="vp8, vorbis"\' /><source src="/_/media/slide-mobile/mobile.mp4" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\' /><source src="/_/media/slide-mobile/mobile.ogv" type=\'video/ogg; codecs="theora, vorbis"\' /></video></div>');
 							}
 
 							// If none of the two conditionals return true, nothing happens. That's what we want: if your viewport is 400 pixels wide, or below, "YOU GET NOTHING." — Willy Wonka
@@ -210,7 +210,7 @@
 							else if (Modernizr.video && document.documentElement.clientWidth > 400) {
 
 								// Write the video element to the DOM
-								document.write('<video autoplay="autoplay" loop="loop" class="creative-video"><source src="/_/media/slide-creative/creative.webm" type=\'video/webm; codecs="vp8, vorbis"\' /><source src="/_/media/slide-creative/creative.mp4" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\' /><source src="/_/media/slide-creative/creative.ogv" type=\'video/ogg; codecs="theora, vorbis"\' /></video>');
+								document.write('<div class="videoContainer creative"><video autoplay="autoplay" loop="loop" class="creative-video"><source src="/_/media/slide-creative/creative.webm" type=\'video/webm; codecs="vp8, vorbis"\' /><source src="/_/media/slide-creative/creative.mp4" type=\'video/mp4; codecs="avc1.42E01E, mp4a.40.2"\' /><source src="/_/media/slide-creative/creative.ogv" type=\'video/ogg; codecs="theora, vorbis"\' /></video></div>');
 							}
 
 							// If none of the two conditionals return true, nothing happens. That's what we want: if your viewport is 400 pixels wide, or below, "YOU GET NOTHING." — Willy Wonka

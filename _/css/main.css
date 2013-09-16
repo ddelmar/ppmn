@@ -1108,7 +1108,7 @@ header {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        max-width: 293px;
+        max-width: 212px;
         visibility: visible; } }
     @media only screen and (min-width: 46.9375em) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\000038}}
@@ -1125,7 +1125,7 @@ header {
     @media only screen and (min-width: 550px) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000326}}
       .s-2 .illustration img {
-        max-width: 293px; } }
+        max-width: 212px; } }
   @media only screen and (min-width: 46.9375em) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000333}}
     .s-2 h1,
@@ -1136,16 +1136,21 @@ header {
     .s-2 h1,
     .s-2 p {
       margin-right: 380px; } }
+  @media only screen and (max-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000333}}
+    .s-2 h1,
+    .s-2 p {
+      margin: 0; } }
   @media only screen and (min-width: 46.9375em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000344}}
     .s-2 h1 {
       font-size: 3em; } }
   @media only screen and (min-width: 56.3125em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000344}}
     .s-2 h1 {
       font-size: 4em; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-about\.sass}line{font-family:\0000352}}
 #aboutmgnt-btn {
   text-align: right; }
 
@@ -1276,7 +1281,7 @@ header {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        max-width: 293px;
+        max-width: 212px;
         visibility: visible; } }
     @media only screen and (min-width: 46.9375em) {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\000038}}
@@ -1300,12 +1305,17 @@ header {
     .s-4 h1,
     .s-4 p {
       margin-right: 380px; } }
+  @media only screen and (max-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000329}}
+    .s-4 h1,
+    .s-4 p {
+      margin: 0; } }
   @media only screen and (min-width: 46.9375em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000340}}
     .s-4 h1 {
       font-size: 3em; } }
   @media only screen and (min-width: 56.3125em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-mobile-targeting\.sass}line{font-family:\0000340}}
     .s-4 h1 {
       font-size: 4em; } }
 
@@ -1350,12 +1360,17 @@ header {
     .s-5 h1,
     .s-5 p {
       margin-right: 380px; } }
+  @media only screen and (max-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000333}}
+    .s-5 h1,
+    .s-5 p {
+      margin: 0; } }
   @media only screen and (min-width: 46.9375em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000344}}
     .s-5 h1 {
       font-size: 3em; } }
   @media only screen and (min-width: 56.3125em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-online-targeting\.sass}line{font-family:\0000344}}
     .s-5 h1 {
       font-size: 4em; } }
 
@@ -1395,12 +1410,17 @@ header {
     .s-6 h1,
     .s-6 p {
       margin-right: 380px; } }
+  @media only screen and (max-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000328}}
+    .s-6 h1,
+    .s-6 p {
+      margin: 0; } }
   @media only screen and (min-width: 46.9375em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000339}}
     .s-6 h1 {
       font-size: 3em; } }
   @media only screen and (min-width: 56.3125em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-creative\.sass}line{font-family:\0000339}}
     .s-6 h1 {
       font-size: 4em; } }
 
@@ -1419,22 +1439,31 @@ header {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000312}}
       .s-7 .illustration img {
         max-width: 293px; } }
+    @media only screen and (max-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000312}}
+      .s-7 .illustration img {
+        display: none; } }
   @media only screen and (min-width: 46.9375em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000322}}
     .s-7 h1,
     .s-7 p {
       margin-right: 350px; } }
   @media only screen and (min-width: 56.3125em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000322}}
     .s-7 h1,
     .s-7 p {
       margin-right: 380px; } }
+  @media only screen and (max-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000322}}
+    .s-7 h1,
+    .s-7 p {
+      margin: 0; } }
   @media only screen and (min-width: 46.9375em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000333}}
     .s-7 h1 {
       font-size: 3em; } }
   @media only screen and (min-width: 56.3125em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/slide-closed-loop-offers\.sass}line{font-family:\0000333}}
     .s-7 h1 {
       font-size: 4em; } }
 
@@ -1614,7 +1643,7 @@ header {
 .modal {
   background-color: white;
   display: none;
-  padding: 25px;
+  padding: 10px 25px;
   max-width: 600px;
   color: #222222; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000323}}
@@ -1648,6 +1677,31 @@ header {
 .contact-thankyou h2 {
   text-align: center;
   color: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000354}}
+.videoContainer {
+  display: none;
+  float: right;
+  max-width: 293;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000361}}
+  .videoContainer.about {
+    background-image: url(/_/media/slide-about/about.png); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000363}}
+  .videoContainer.mobile {
+    background-image: url(/_/media/slide-mobile/mobile.png); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000365}}
+  .videoContainer.creative {
+    background-image: url(/_/media/slide-mobile/mobile.png); }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000367}}
+  .videoContainer video {
+    margin: 110px 28px 288px 30px; }
+  @media only screen and (min-width: 860px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_module\/modals\.sass}line{font-family:\0000354}}
+    .videoContainer {
+      display: block; } }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_page\/non-slide-general\.sass}line{font-family:\000036}}
 .main {
