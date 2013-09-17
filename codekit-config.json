@@ -25,6 +25,15 @@
       "initialSize" : 63833,
       "fileType" : 4096
     },
+    "\/terms-and-conditions\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/terms-and-conditions\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_\/css\/_page\/non-slide-general.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -44,15 +53,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/scott-hendrickson.jpg",
       "initialSize" : 9343,
       "fileType" : 4096
-    },
-    "\/terms-and-conditions\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/terms-and-conditions\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_\/sass\/_module\/slide-mobile-and-online.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -178,17 +178,6 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/_\/media\/slide-mobile\/mobile.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-mobile\/mobile.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-mobile\/mobile.png",
-      "initialSize" : 374397,
-      "fileType" : 8192
-    },
     "\/_\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -199,6 +188,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_\/js\/vendor\/modernizr-2.6.2.min-prod.js",
       "fileType" : 64
+    },
+    "\/_\/media\/slide-mobile\/mobile.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-mobile\/mobile.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-mobile\/mobile.png",
+      "initialSize" : 374397,
+      "fileType" : 8192
     },
     "\/_\/media\/main-nav-tab-2x.png" : {
       "ignoreWasSetByUser" : 0,
@@ -231,6 +231,17 @@
       "initialSize" : 5740,
       "fileType" : 8192
     },
+    "\/_\/media\/management-team\/ScottHendrickson2x.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson2x.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson2x.jpg",
+      "initialSize" : 121437,
+      "fileType" : 4096
+    },
     "\/_\/media\/main-nav-tab.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -254,27 +265,16 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/_\/media\/management-team\/ScottHendrickson2x.jpg" : {
+    "\/_\/js\/main-prod.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson2x.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson2x.jpg",
-      "initialSize" : 121437,
-      "fileType" : 4096
-    },
-    "\/_\/media\/main-nav-tab-inverted-2x.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted-2x.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted-2x.png",
-      "initialSize" : 2550,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_\/js\/main-prod.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_\/js\/main-prod-prod.js",
+      "fileType" : 64
     },
     "\/_\/sass\/_print.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -299,16 +299,16 @@
       "initialSize" : 143754,
       "fileType" : 8192
     },
-    "\/_\/js\/main-prod.js" : {
+    "\/_\/media\/main-nav-tab-inverted-2x.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/js\/main-prod.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_\/js\/main-prod-prod.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted-2x.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted-2x.png",
+      "initialSize" : 2550,
+      "fileType" : 8192
     },
     "\/_\/media\/management-team\/DavidChang1x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -417,14 +417,16 @@
       "initialSize" : 73526,
       "fileType" : 4096
     },
-    "\/_\/inc\/doctype-html.php" : {
+    "\/_\/media\/management-team\/patrick-gauthier-2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/inc\/doctype-html.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier-2x.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier-2x.jpg",
+      "initialSize" : 20601,
+      "fileType" : 4096
     },
     "\/_\/sass\/_module\/modals.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -437,6 +439,15 @@
       "outputAbbreviatedPath" : "\/_\/css\/modals.css",
       "fileType" : 2,
       "debugStyle" : 1
+    },
+    "\/_\/inc\/doctype-html.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/inc\/doctype-html.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_\/media\/management-team\/BenKneen2x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -470,26 +481,6 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/_\/media\/management-team\/patrick-gauthier-2x.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier-2x.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier-2x.jpg",
-      "initialSize" : 20601,
-      "fileType" : 4096
-    },
-    "\/_\/css\/_module\/slide-news-events.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-news-events.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/privacy-policy\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -498,6 +489,15 @@
       "inputAbbreviatedPath" : "\/privacy-policy\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_\/css\/_foundation\/helpers.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_foundation\/helpers.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_\/media\/slide-about\/illustration-large.png" : {
       "ignoreWasSetByUser" : 0,
@@ -542,12 +542,12 @@
       "initialSize" : 1135,
       "fileType" : 8192
     },
-    "\/_\/css\/_foundation\/helpers.css" : {
+    "\/_\/css\/_module\/slide-news-events.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_foundation\/helpers.css",
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-news-events.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -590,21 +590,21 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/contact-thankyou\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/contact-thankyou\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_\/inc\/modal-contact-form.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_\/inc\/modal-contact-form.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/contact-thankyou\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/contact-thankyou\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -682,6 +682,26 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/_\/css\/_module\/slide-home.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-home.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_\/media\/slide-closed-loop-offers\/illustration-large.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-closed-loop-offers\/illustration-large.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-closed-loop-offers\/illustration-large.png",
+      "initialSize" : 42850,
+      "fileType" : 8192
+    },
     "\/_\/sass\/_foundation\/helpers.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -704,26 +724,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/NealaPolachi1x.jpg",
       "initialSize" : 39637,
       "fileType" : 4096
-    },
-    "\/_\/css\/_module\/slide-home.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-home.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/_\/media\/slide-closed-loop-offers\/illustration-large.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-closed-loop-offers\/illustration-large.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-closed-loop-offers\/illustration-large.png",
-      "initialSize" : 42850,
-      "fileType" : 8192
     },
     "\/_\/sass\/_module\/header.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -758,6 +758,17 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/scott-hendrickson-2x.jpg",
       "initialSize" : 25934,
       "fileType" : 4096
+    },
+    "_dupe\/_\/media\/slide-mobile\/mobile.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
+      "initialSize" : 374397,
+      "fileType" : 8192
     },
     "\/_\/css\/_module\/slide-mobile-targeting.css" : {
       "ignoreWasSetByUser" : 0,
@@ -801,15 +812,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_\/css\/_module\/header.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/header.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -818,6 +820,15 @@
       "inputAbbreviatedPath" : "\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_\/css\/_module\/header.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/header.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_\/media\/management-team\/PatrickGauthier2x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -830,17 +841,6 @@
       "initialSize" : 103078,
       "fileType" : 4096
     },
-    "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
-      "initialSize" : 2051,
-      "fileType" : 8192
-    },
     "\/_\/media\/slide-home\/hero-1-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -851,6 +851,17 @@
       "outputAbbreviatedPath" : "\/_\/media\/slide-home\/hero-1-large.jpg",
       "initialSize" : 364390,
       "fileType" : 4096
+    },
+    "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
+      "initialSize" : 2051,
+      "fileType" : 8192
     },
     "\/news\/index.php" : {
       "ignoreWasSetByUser" : 0,
@@ -915,15 +926,6 @@
       "initialSize" : 273734,
       "fileType" : 8192
     },
-    "\/events\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/events\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_\/sass\/_module\/slide-online-targeting.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -935,6 +937,15 @@
       "outputAbbreviatedPath" : "\/_\/css\/slide-online-targeting.css",
       "fileType" : 2,
       "debugStyle" : 1
+    },
+    "\/events\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/events\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_\/css\/_module\/modals.css" : {
       "ignoreWasSetByUser" : 0,
@@ -974,27 +985,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_\/sass\/_module\/flexslider-base.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/sass\/_module\/flexslider-base.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_\/css\/flexslider-base.css",
-      "fileType" : 2,
-      "debugStyle" : 1
-    },
-    "\/_\/css\/_module\/flexslider-base.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/flexslider-base.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_\/sass\/_module\/slide-about.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1007,23 +997,26 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/config.rb" : {
+    "\/_\/css\/_module\/flexslider-base.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/flexslider-base.css",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
+      "fileType" : 16
     },
-    "\/about-management-team\/index.php" : {
+    "\/_\/sass\/_module\/flexslider-base.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/about-management-team\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_\/sass\/_module\/flexslider-base.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_\/css\/flexslider-base.css",
+      "fileType" : 2,
+      "debugStyle" : 1
     },
     "\/_\/media\/main-nav-tab-inverted.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1036,6 +1029,15 @@
       "initialSize" : 1706,
       "fileType" : 8192
     },
+    "\/about-management-team\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/about-management-team\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_\/css\/_module\/slide-online-targeting.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1045,14 +1047,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/asset-requirements\/index.php" : {
+    "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/asset-requirements\/index.php",
+      "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "fileType" : 32768
     },
     "\/_\/sass\/_module\/slide-news-events.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -1065,6 +1067,15 @@
       "outputAbbreviatedPath" : "\/_\/css\/slide-news-events.css",
       "fileType" : 2,
       "debugStyle" : 1
+    },
+    "\/asset-requirements\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/asset-requirements\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_\/media\/pp-logo-white-2x.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1088,6 +1099,17 @@
       "initialSize" : 2594632,
       "fileType" : 4096
     },
+    "\/_\/media\/slide-online\/illustration-large-2x.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-online\/illustration-large-2x.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-online\/illustration-large-2x.png",
+      "initialSize" : 109427,
+      "fileType" : 8192
+    },
     "\/_\/sass\/_module\/slide-closed-loop-offers.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1099,17 +1121,6 @@
       "outputAbbreviatedPath" : "\/_\/css\/slide-closed-loop-offers.css",
       "fileType" : 2,
       "debugStyle" : 1
-    },
-    "\/_\/media\/slide-online\/illustration-large-2x.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-online\/illustration-large-2x.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-online\/illustration-large-2x.png",
-      "initialSize" : 109427,
-      "fileType" : 8192
     },
     "\/_\/sass\/_module\/flexslider-custom.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -1165,17 +1176,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_\/media\/management-team\/DavidDelmar2x.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/management-team\/DavidDelmar2x.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/management-team\/DavidDelmar2x.jpg",
-      "initialSize" : 129450,
-      "fileType" : 4096
-    },
     "\/_\/media\/management-team\/ScottHendrickson1x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1185,6 +1185,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson1x.jpg",
       "initialSize" : 51739,
+      "fileType" : 4096
+    },
+    "\/_\/media\/management-team\/DavidDelmar2x.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/management-team\/DavidDelmar2x.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/management-team\/DavidDelmar2x.jpg",
+      "initialSize" : 129450,
       "fileType" : 4096
     },
     "\/_\/media\/management-team\/KarenMurphy1x.jpg" : {
