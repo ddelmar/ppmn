@@ -99,7 +99,7 @@ $("#popup").fadeOut();
 		<div id="fifth_text">
 			<h1 class="fifth_h1">Location, location, location.</h1>
 			<p class="fifth_copy">
-				WHERE Ads is now PayPal Media Network (PPMN), with multi-media solutions designed to increase awareness and help drive consumer transactions for retailers, manufacturers, and restaurants. We've branched out into online, but our mission remains the same... to leverage the most relevant targeting capabilities for each medium to help drive consumers to transact.
+				WHERE Ads is now PayPal Media Network (PPMN), with multi-media solutions designed to increase awareness and help drive consumer transactions for retailers, manufacturers, and restaurants. We've branched out into online, but our mission remains the same… to leverage the most relevant targeting capabilities for each medium to help drive consumers to transact.
 			</p>
 			<p><a href="/">More</a></p>
 			
