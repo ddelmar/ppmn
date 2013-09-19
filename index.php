@@ -266,44 +266,51 @@
 											<h1>Events</h1>
 											<ol>
 												<li>
-						<a target="_blank" href="http://dmwvideo.com">
-							<span class="event-name">Future of Television</span>
-							<span class="event-date">9/18</span>
-							<span class="event-location">New York, NY</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://brandinnovatorsmegatrends.com/">
-							<span class="event-name">Brand Innovators Mega-Trends Summit</span>
-							<span class="event-date">9/25</span>
-							<span class="event-location">New York, NY</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://bcu13boston-zvents.eventbrite.com">
-							<span class="event-name">Brand Camp</span>
-							<span class="event-date">9/26</span>
-							<span class="event-location">Boston, MA</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://www.admonsters.com/event/op-us-4">
-							<span class="event-name">AdMonster OPS</span>
-							<span class="event-date">9/26</span>
-							<span class="event-location">New York, NY</span>
-						</a>
-					</li>
-					
-					<li>
-						<a target="_blank" href="http://www.mobilemarketingstrategiessummit.com/">
-							<span class="event-name">Mobile Marketing Strategies Summit</span>
-							<span class="event-date">10/2</span>
-							<span class="event-location">Boston, MA</span>
-						</a>
-					</li>
+													<a target="_blank" href="http://dmwvideo.com">
+														<span class="event-name">Sarah Hodkinson: Future of Television</span>
+														<span class="event-date">9/18</span>
+														<span class="event-location">New York</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://brandinnovatorsmegatrends.com/">
+														<span class="event-name">Brand Innovators Mega-Trends Summit</span>
+														<span class="event-date">9/25</span>
+														<span class="event-location">New York</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://bcu13boston-zvents.eventbrite.com">
+														<span class="event-name">David Chang: Brand Camp</span>
+														<span class="event-date">9/26</span>
+														<span class="event-location">Boston</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://www.admonsters.com/event/op-us-4">
+														<span class="event-name">Patrick Gauthier: AdMonster OPS</span>
+														<span class="event-date">9/26</span>
+														<span class="event-location">New York</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://www.masstlc.org/events/event_details.asp?id=267167">
+														<span class="event-name">MassTLC Workforce Seminar</span>
+														<span class="event-date">9/27</span>
+														<span class="event-location">Boston</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://www.houstonima.org/master-events?eventId=644849&EventViewMode=EventDetails">
+														<span class="event-name">Houston Interactive Marketing Association 2013 Interactive Strategies Conference</span>
+														<span class="event-date">10/2</span>
+														<span class="event-location">Houston, TX</span>
+													</a>
+												</li>
+											
 
 											</ol>
-											<!-- <a href="/events/" class="see-all">See All</a> -->
+											<a href="/events/" class="see-all">See All</a>
 										</article><!-- .events-wrap -->
 										<article class="news-wrap">
 											<h1>News</h1>
