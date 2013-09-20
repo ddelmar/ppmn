@@ -31,14 +31,14 @@
       "initialSize" : 5139,
       "fileType" : 8192
     },
-    "\/poster\/style.css" : {
+    "\/contact-thankyou\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/style.css",
+      "inputAbbreviatedPath" : "\/contact-thankyou\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 2048
     },
     "\/_\/css\/_module\/slide-news-events.css" : {
       "ignoreWasSetByUser" : 0,
@@ -72,15 +72,6 @@
       "initialSize" : 524964,
       "fileType" : 8192
     },
-    "\/contact-thankyou\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/contact-thankyou\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/poster\/i\/pos_wheel.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -100,6 +91,15 @@
       "inputAbbreviatedPath" : "\/_\/inc\/doctype-html.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/poster\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/poster\/i\/thirdBG.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -452,6 +452,17 @@
       "initialSize" : 56510,
       "fileType" : 4096
     },
+    "\/poster\/i\/ny_cloud_right.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/i\/ny_cloud_right.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/poster\/i\/ny_cloud_right.png",
+      "initialSize" : 13499,
+      "fileType" : 8192
+    },
     "\/_\/sass\/_mixin\/media-queries.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -463,17 +474,6 @@
       "outputAbbreviatedPath" : "\/_\/css\/media-queries.css",
       "fileType" : 2,
       "debugStyle" : 1
-    },
-    "\/poster\/i\/ny_cloud_right.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_cloud_right.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_cloud_right.png",
-      "initialSize" : 13499,
-      "fileType" : 8192
     },
     "\/poster\/i\/home_bg.png" : {
       "ignoreWasSetByUser" : 0,
@@ -513,16 +513,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/poster\/i\/bubbles1.png" : {
+    "\/_\/sass\/_module\/header.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/bubbles1.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/bubbles1.png",
-      "initialSize" : 44625,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_\/sass\/_module\/header.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_\/css\/header.css",
+      "fileType" : 2,
+      "debugStyle" : 1
     },
     "\/terms-and-conditions\/index.php" : {
       "ignoreWasSetByUser" : 0,
@@ -578,46 +579,15 @@
       "initialSize" : 98766,
       "fileType" : 4096
     },
-    "\/_\/media\/management-team\/NealaPolachi2x.jpg" : {
+    "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/management-team\/NealaPolachi2x.jpg",
+      "inputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/management-team\/NealaPolachi2x.jpg",
-      "initialSize" : 84715,
-      "fileType" : 4096
-    },
-    "\/poster\/i\/firstBG.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/firstBG.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/firstBG.jpg",
-      "initialSize" : 264440,
-      "fileType" : 4096
-    },
-    "\/_\/css\/_foundation\/variables.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_foundation\/variables.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/_\/media\/slide-home\/illustration.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-home\/illustration.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-home\/illustration.png",
-      "initialSize" : 14339,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
+      "initialSize" : 2051,
       "fileType" : 8192
     },
     "\/_\/media\/management-team\/scott-hendrickson.jpg" : {
@@ -629,6 +599,37 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/scott-hendrickson.jpg",
       "initialSize" : 9343,
+      "fileType" : 4096
+    },
+    "\/about-management-team\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/about-management-team\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/poster\/i\/bubbles1.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/i\/bubbles1.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/poster\/i\/bubbles1.png",
+      "initialSize" : 44625,
+      "fileType" : 8192
+    },
+    "\/poster\/i\/firstBG.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/i\/firstBG.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/poster\/i\/firstBG.jpg",
+      "initialSize" : 264440,
       "fileType" : 4096
     },
     "\/_\/media\/management-team\/PatrickGauthier2x.jpg" : {
@@ -671,28 +672,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_\/media\/slide-about\/about.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-about\/about.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-about\/about.png",
-      "initialSize" : 143754,
-      "fileType" : 8192
-    },
-    "\/poster\/scripts\/jquery.scrollTo-1.4.2-min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.scrollTo-1.4.2-min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.scrollTo-1.4.2-min-prod.js",
-      "fileType" : 64
-    },
     "\/_\/js\/plugins.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -702,17 +681,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_\/js\/plugins-prod.js",
-      "fileType" : 64
-    },
-    "\/poster\/scripts\/nbw-parallax.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax-prod.js",
       "fileType" : 64
     },
     "\/_\/sass\/_foundation\/helpers.sass" : {
@@ -736,6 +704,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/poster\/scripts\/nbw-parallax.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax-prod.js",
+      "fileType" : 64
+    },
     "\/_\/media\/slide-home\/hero-1-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -746,38 +725,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/slide-home\/hero-1-large.jpg",
       "initialSize" : 364390,
       "fileType" : 4096
-    },
-    "\/_\/sass\/main.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/sass\/main.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_\/css\/main.css",
-      "fileType" : 2,
-      "debugStyle" : 1
-    },
-    "\/_\/media\/pp-logo-white.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/pp-logo-white.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/pp-logo-white.png",
-      "initialSize" : 1135,
-      "fileType" : 8192
-    },
-    "\/_\/css\/_module\/flexslider-custom.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/flexslider-custom.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/poster\/i\/bike_bg.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -799,6 +746,71 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/poster\/i\/bike_bg.png",
       "initialSize" : 1458253,
+      "fileType" : 8192
+    },
+    "\/_\/media\/pp-logo-white.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/pp-logo-white.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/pp-logo-white.png",
+      "initialSize" : 1135,
+      "fileType" : 8192
+    },
+    "\/_\/media\/slide-home\/illustration.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-home\/illustration.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-home\/illustration.png",
+      "initialSize" : 14339,
+      "fileType" : 8192
+    },
+    "\/_\/media\/management-team\/NealaPolachi2x.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/management-team\/NealaPolachi2x.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/management-team\/NealaPolachi2x.jpg",
+      "initialSize" : 84715,
+      "fileType" : 4096
+    },
+    "\/_\/sass\/main.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/sass\/main.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_\/css\/main.css",
+      "fileType" : 2,
+      "debugStyle" : 1
+    },
+    "\/_\/css\/_foundation\/variables.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_foundation\/variables.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/poster\/i\/fifth_iphone.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/i\/fifth_iphone.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/poster\/i\/fifth_iphone.png",
+      "initialSize" : 91180,
       "fileType" : 8192
     },
     "\/poster\/i\/dot.png" : {
@@ -824,17 +836,6 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/poster\/i\/fifth_iphone.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/fifth_iphone.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/fifth_iphone.png",
-      "initialSize" : 91180,
-      "fileType" : 8192
-    },
     "\/poster\/i\/ny_banner.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -846,27 +847,6 @@
       "initialSize" : 76263,
       "fileType" : 8192
     },
-    "\/_\/sass\/_module\/header.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/sass\/_module\/header.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_\/css\/header.css",
-      "fileType" : 2,
-      "debugStyle" : 1
-    },
-    "\/about-management-team\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/about-management-team\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_\/js\/vendor\/jquery-1.9.1.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -877,6 +857,28 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_\/js\/vendor\/jquery-1.9.1.min-prod.js",
       "fileType" : 64
+    },
+    "\/poster\/scripts\/jquery.scrollTo-1.4.2-min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.scrollTo-1.4.2-min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.scrollTo-1.4.2-min-prod.js",
+      "fileType" : 64
+    },
+    "\/_\/media\/slide-about\/about.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-about\/about.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-about\/about.png",
+      "initialSize" : 143754,
+      "fileType" : 8192
     },
     "\/_\/sass\/_module\/slide-mobile-and-online.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -890,16 +892,14 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png" : {
+    "\/_\/css\/_module\/flexslider-custom.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png",
-      "initialSize" : 2051,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/flexslider-custom.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_\/sass\/_module\/modals.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -953,17 +953,6 @@
       "initialSize" : 2594632,
       "fileType" : 4096
     },
-    "\/_\/media\/management-team\/patrick-gauthier.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier.jpg",
-      "initialSize" : 6876,
-      "fileType" : 4096
-    },
     "\/_\/media\/management-team\/scott-hendrickson-2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -973,6 +962,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/scott-hendrickson-2x.jpg",
       "initialSize" : 25934,
+      "fileType" : 4096
+    },
+    "\/_\/media\/management-team\/patrick-gauthier.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier.jpg",
+      "initialSize" : 6876,
       "fileType" : 4096
     },
     "\/_\/media\/management-team\/DavidChang2x.jpg" : {
@@ -1063,15 +1063,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_\/css\/_module\/slide-creative.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-creative.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_\/inc\/modal-case-studies.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1080,6 +1071,15 @@
       "inputAbbreviatedPath" : "\/_\/inc\/modal-case-studies.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_\/css\/_module\/slide-creative.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-creative.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_\/sass\/_module\/slide-news-events.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -1126,27 +1126,28 @@
       "initialSize" : 8522,
       "fileType" : 8192
     },
-    "\/_\/media\/main-nav-tab-2x.png" : {
+    "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/main-nav-tab-2x.png",
+      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/main-nav-tab-2x.png",
-      "initialSize" : 2569,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg",
+      "initialSize" : 2594632,
+      "fileType" : 4096
     },
-    "\/_\/media\/slide-about\/illustration-large-2x.png" : {
+    "\/_\/sass\/_module\/flexslider-custom.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/slide-about\/illustration-large-2x.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/slide-about\/illustration-large-2x.png",
-      "initialSize" : 37676,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_\/sass\/_module\/flexslider-custom.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_\/css\/flexslider-custom.css",
+      "fileType" : 2,
+      "debugStyle" : 1
     },
     "\/404.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1208,28 +1209,27 @@
       "initialSize" : 41525,
       "fileType" : 4096
     },
-    "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg" : {
+    "\/_\/media\/slide-about\/illustration-large-2x.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg",
+      "inputAbbreviatedPath" : "\/_\/media\/slide-about\/illustration-large-2x.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg",
-      "initialSize" : 2594632,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/_\/media\/slide-about\/illustration-large-2x.png",
+      "initialSize" : 37676,
+      "fileType" : 8192
     },
-    "\/_\/sass\/_module\/flexslider-custom.sass" : {
+    "\/_\/media\/main-nav-tab-2x.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/sass\/_module\/flexslider-custom.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_\/css\/flexslider-custom.css",
-      "fileType" : 2,
-      "debugStyle" : 1
+      "inputAbbreviatedPath" : "\/_\/media\/main-nav-tab-2x.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/main-nav-tab-2x.png",
+      "initialSize" : 2569,
+      "fileType" : 8192
     },
     "\/_\/inc\/header.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1356,15 +1356,6 @@
       "initialSize" : 63833,
       "fileType" : 4096
     },
-    "\/_\/css\/_module\/slide-online-targeting.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-online-targeting.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_\/inc\/modal-contact-form.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1373,6 +1364,15 @@
       "inputAbbreviatedPath" : "\/_\/inc\/modal-contact-form.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_\/css\/_module\/slide-online-targeting.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-online-targeting.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/poster\/i\/ny_road.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1546,16 +1546,16 @@
       "outputAbbreviatedPath" : "\/_\/js\/main-prod.js",
       "fileType" : 64
     },
-    "_dupe\/_\/media\/slide-mobile\/mobile.png" : {
+    "\/_\/js\/vendor\/modernizr-2.6.2.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
-      "initialSize" : 374397,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_\/js\/vendor\/modernizr-2.6.2.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_\/js\/vendor\/modernizr-2.6.2.min-prod.js",
+      "fileType" : 64
     },
     "\/events\/index.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1577,16 +1577,16 @@
       "initialSize" : 1706,
       "fileType" : 8192
     },
-    "\/_\/js\/vendor\/modernizr-2.6.2.min.js" : {
+    "_dupe\/_\/media\/slide-mobile\/mobile.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/js\/vendor\/modernizr-2.6.2.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_\/js\/vendor\/modernizr-2.6.2.min-prod.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
+      "initialSize" : 374397,
+      "fileType" : 8192
     },
     "\/_\/js\/main-prod.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1599,15 +1599,6 @@
       "outputAbbreviatedPath" : "\/_\/js\/main-prod-prod.js",
       "fileType" : 64
     },
-    "\/_\/css\/_foundation\/base.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_foundation\/base.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_\/media\/management-team\/StefanieMatthews2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1618,6 +1609,15 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/StefanieMatthews2x.jpg",
       "initialSize" : 73526,
       "fileType" : 4096
+    },
+    "\/_\/css\/_foundation\/base.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_foundation\/base.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     }
   },
   "manualImportLinks" : [
