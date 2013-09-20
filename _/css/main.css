@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003125}}
 h1 {
   font-size: 2em;
-  margin: 1em 0 0.1em; }
+  margin: 0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ddelmar\/Sites\/PPMN\/_\/sass\/_foundation\/base\.sass}line{font-family:\00003130}}
 h2 {
