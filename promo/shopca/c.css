@@ -1,0 +1,214 @@
+@import url("mobile.css") (max-width: 767px);
+
+@import url("tablet.css") (min-width: 768px) and (max-width: 1025px);
+
+@import url("desktop.css") (min-width: 1026px);
+
+/* #General styles
+================================================== */
+
+@font-face {    
+	/*
+	font-family: "Helvetica Neue Light";    
+    src: url(http://delmarsenties.com/f/helveticaneueltcomlt.ttf); 
+    src: local("Helvetica Neue Light"), url("http://delmarsenties.com/f/helveticaneueltcomlt.ttf") format("TrueType");
+*/
+    font-family: "Helvetica Neue Light";    
+    src: url(../f/HelveticaNeueLTCom-Lt.ttf); 
+    src: local("Helvetica Neue Light"), url("../f/HelveticaNeueLTCom-Lt.ttf") format("TrueType"); 
+}
+@font-face {    
+    font-family: "Helvetica Neue Heavy";    
+    src: url(../f/HelveticaNeueLTCom-Hv.ttf); 
+    src: local("Helvetica Neue Heavy"), url("../f/HelveticaNeueLTCom-Hv.ttf") format("TrueType"); /* non-IE */    
+}
+
+
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-align: center;
+	margin:0 auto;
+	background: #e6e7e8;
+	font-size: 81.25%;
+}
+
+img {border:none;}
+
+a { text-decoration:none; color: #2d9ce8; }
+
+a:hover { text-decoration:none; color:#222; }
+
+.blue {color:#0093c2;}
+
+h1 {
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	margin: 1em 0;
+	padding: 0 20px;
+	color: #2d9ce8;
+	text-align: center;
+	font-size: 2.4em;
+	/*
+	text-shadow: 1px 2px rgba(0,0,0,.6); */
+}
+
+h2 {
+	color: #2d9ce8;
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+	margin: 1em 0;
+}
+
+h3 {
+	color: #929191;
+	font-family: "HelveticaNeue-Ultralight","Helvetica Neue Ultralight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 100;
+}
+
+ul, li {
+	list-style-type: none;
+}
+
+ol li {
+	list-style-type: decimal;
+	margin: 0 0 0 40px;
+}
+
+.clr {
+	clear:both;
+	width:100%;
+	height:1px;
+	background:none;
+}
+
+p, ul, ol  {
+	line-height:1.5em;
+	font-size: 1.3em;
+	color:#666;
+}
+
+p {
+	margin: 1em 0;
+	float: left;
+}
+
+br { margin:1em 0 0 0; }
+
+
+.visible { 
+	/*
+	-webkit-animation: fadeIn1 1s ease-in-out 1;
+	-moz-animation: fadeIn1 1s ease-in-out 1;
+*/
+	display:block;
+	}
+
+.invisible { display:none; }
+
+
+.navParent {
+	position:fixed;
+	z-index:99;
+	display:block;
+	top:0;
+	padding: 0;
+	width:100%;
+	border-bottom: 1px solid white;
+	box-shadow: 0px 0px 3px 3px rgba(0,0,0,.1);
+	background-color: whiteSmoke;
+	color: #666;
+}
+
+.navChild {
+	text-align: center;
+	margin: 0 auto;
+}
+
+img.logo {
+	height:auto;
+}
+
+.navChild ul {
+	float: right;
+}
+
+.navChild ul li {
+	padding: 12px;
+	float: right;
+}
+
+.navChild ul li a { 
+	color: #2d9ce8;
+	}
+
+.navChild ul li.contact a { 
+	background-image: none;
+	}
+
+.wrapper {
+	text-align:left;
+	margin:30px auto;
+	width:90%;
+	max-width: 600px;
+}
+
+.container {
+	background: #f7f7f7;
+	border-radius: 12px;
+	border: 1px solid #ccc;
+	float: left;
+}
+
+.container p {
+	margin:  0 30px 15px 30px;
+}
+
+.pp-logo {
+	padding: 30px;
+	border-radius: 12px 12px 0 0;
+	background: #fff;
+}
+
+.pp-logo a {
+background-image: url('/_/media/pp-logo640.png');
+background-repeat: no-repeat;
+background-size: 100%;
+overflow: hidden;
+text-indent:-9999;
+font-size:0em;
+border: 0;
+display: block;
+height: 30px;
+overflow: hidden;
+width: 100px;
+}
+
+.shopca_coupon {
+	width:100%;
+}
+
+.copy-main {
+	float: left;
+	margin: 20px 0 0 0;
+	padding: 20px 0;
+	border-radius: 0 0 12px 12px;
+	border-top: 1px solid #ccc;
+	background: #fff url(shopca_shadow.png) center top repeat-x;
+	
+}
+
+.copy-terms p {
+	font-size:.9em;
+}
+
+a.cat-link {
+	float: left;
+	box-shadow: 0px 4px 15px rgba(0,0,0,.6);
+	moz-box-shadow: 0px 4px 15px rgba(0,0,0,.6);
+	-webkit-box-shadow: 0px 4px 15px rgba(0,0,0,.6);
+}
+
