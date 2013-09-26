@@ -15,7 +15,7 @@
 
 
 
-<title>PayPal | Shop.ca</title>
+<title>PayPal | SHOP.CA</title>
 
 </head>
 <body>
@@ -34,7 +34,7 @@
 <div class="container">
 <div class="pp-logo"><a href="/" title="PayPal Media Network">PayPal Media Network</a></div>
 	
-<h1>You have $25 off when you spend $75 of more at Shop.ca and pay with PayPal</h1>
+<h1>You have $25 off when you spend $75 or more at SHOP.CA and pay with PayPal</h1>
 <p>
 	<a class="cat-link" href="http://shop.ca" title="Shop.ca">
 		<img class="shopca_coupon" src="shopca_coupon.png" />
@@ -43,7 +43,7 @@
 
 <div class="copy-main">
 <p>
-To redeem this offer you won't need to enter any special code during checkout. Your offer is automatically applied when you spend $75 or more at Shop.ca pay with PayPal. It's that simple.</p><p>This is a limited time offer. Don’t let savings slip away. Shop today at <a href="http://shop.ca" title="shop.ca">shop.ca.</a> and save when you pay with PayPal. </p><p>Terms apply. Redeem by 10/14/2013</p><p>For an additional $25 off a $100 purchase, sign up for free at SHOP.CA, by visiting <a href="http://shop.ca" title="shop.ca">shop.ca.</a> 
+To redeem this offer you won't need to enter any special code during checkout. Your offer is automatically applied when you spend $75 or more at SHOP.CA and pay with PayPal. It's that simple.</p><p>This is a limited time offer. Don’t let savings slip away. Shop today at <a href="http://shop.ca" title="shop.ca">SHOP.CA</a> and save when you pay with PayPal. </p><p>Terms apply. Redeem by 10/14/2013</p><p>For an additional $25 off a $100 purchase, sign up for free at SHOP.CA, by visiting <a href="http://shop.ca" title="shop.ca">SHOP.CA.</a> 
 </p>
 </div><!-- -copy-main -->
 </div><!-- /container -->
