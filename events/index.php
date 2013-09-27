@@ -14,85 +14,51 @@
 
 
 					<li>
-						<a target="_blank" href="http://dmwvideo.com">
-							<span class="event-name">Sarah Hodkinson: Future of Television</span>
-							<span class="event-date">9/18</span>
-							<span class="event-location">New York</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://brandinnovatorsmegatrends.com/">
-							<span class="event-name">Brand Innovators Mega-Trends Summit</span>
-							<span class="event-date">9/25</span>
-							<span class="event-location">New York</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://bcu13boston-zvents.eventbrite.com">
-							<span class="event-name">David Chang: Brand Camp</span>
-							<span class="event-date">9/26</span>
-							<span class="event-location">Boston</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://www.admonsters.com/event/op-us-4">
-							<span class="event-name">Patrick Gauthier: AdMonster OPS</span>
-							<span class="event-date">9/26</span>
-							<span class="event-location">New York</span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="http://www.masstlc.org/events/event_details.asp?id=267167">
-							<span class="event-name">MassTLC Workforce Seminar</span>
-							<span class="event-date">9/27</span>
-							<span class="event-location">Boston</span>
-						</a>
-					</li>
-					<li>
 						<a target="_blank" href="http://www.houstonima.org/master-events?eventId=644849&EventViewMode=EventDetails">
-							<span class="event-name">Houston Interactive Marketing Association 2013 Interactive Strategies Conference</span>
+							<span class="event-name">Speaking - Houston Interactive Marketing Association 2013 Interactive Strategies Conference</span>
 							<span class="event-date">10/2</span>
 							<span class="event-location">Houston, TX</span>
 						</a>
 					</li>
 					<li>
 						<a target="_blank" href="http://www.mobilemarketingstrategiessummit.com/">
-							<span class="event-name">Sarah Hodkinson: Mobile Marketing Strategies Summit</span>
+							<span class="event-name">Speaking - Mobile Marketing Strategies Summit</span>
 							<span class="event-date">10/2</span>
 							<span class="event-location">Boston</span>
 						</a>
 					</li>
 					<li>
 						<a target="_blank" href="http://www.shoppermarketexpo.com/">
-							<span class="event-name">Shopper Marketing Expo</span>
+							<span class="event-name">Attending - Shopper Marketing Expo</span>
 							<span class="event-date">10/8</span>
 							<span class="event-location">Chicago</span>
 						</a>
 					</li>
 					<li>
+						
 						<a target="_blank" href="https://www.aaaa.org/pages/events.aspx?webcode=EventInfo&Regpath=EventRegFees&Reg_evt_key=2EA3501A-7F72-4A6E-90BE-4F1AD6A3B5D2">
-							<span class="event-name">Shopper Marketing Expo</span>
+							<span class="event-name">Speaking - American Association of Advertising Agencies Data Summit</span>
 							<span class="event-date">10/16</span>
 							<span class="event-location">New York</span>
 						</a>
 					</li>
 					<li>
 						<a target="_blank" href="http://brandinnovatorsmegatrends.com/">
-							<span class="event-name">Brand Innovators Mega-Trends Summit</span>
+							<span class="event-name">Sponsoring - Brand Innovators Mega-Trends Summit</span>
 							<span class="event-date">10/17</span>
 							<span class="event-location">San Francisco</span>
 						</a>
 					</li>
 					<li>
 						<a target="_blank" href="http://www.imediaconnection.com/summits/32931.asp">
-							<span class="event-name">iMedia Breakthrough Summit</span>
+							<span class="event-name">Attending - iMedia Breakthrough Summit</span>
 							<span class="event-date">10/20</span>
 							<span class="event-location">Austin</span>
 						</a>
 					</li>
 					<li>
 						<a target="_blank" href="http://digiday.com/event/digidayagencysummit/">
-							<span class="event-name">Digiday Agency Summit</span>
+							<span class="event-name">Sponsoring - Digiday Agency Summit</span>
 							<span class="event-date">10/22</span>
 							<span class="event-location">Miami</span>
 						</a>

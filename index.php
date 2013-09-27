@@ -266,45 +266,53 @@
 											<h1>Events</h1>
 											<ol>
 												<li>
-													<a target="_blank" href="http://dmwvideo.com">
-														<span class="event-name">Sarah Hodkinson: Future of Television</span>
-														<span class="event-date">9/18</span>
+													<a target="_blank" href="http://www.houstonima.org/master-events?eventId=644849&EventViewMode=EventDetails">
+														<span class="event-name">Speaking - Houston Interactive Marketing Association 2013 Interactive Strategies Conference</span>
+														<span class="event-date">10/2</span>
+														<span class="event-location">Houston, TX</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://www.mobilemarketingstrategiessummit.com/">
+														<span class="event-name">Speaking - Mobile Marketing Strategies Summit</span>
+														<span class="event-date">10/2</span>
+														<span class="event-location">Boston</span>
+													</a>
+												</li>
+												<li>
+													<a target="_blank" href="http://www.shoppermarketexpo.com/">
+														<span class="event-name">Attending - Shopper Marketing Expo</span>
+														<span class="event-date">10/8</span>
+														<span class="event-location">Chicago</span>
+													</a>
+												</li>
+												<li>
+
+													<a target="_blank" href="https://www.aaaa.org/pages/events.aspx?webcode=EventInfo&Regpath=EventRegFees&Reg_evt_key=2EA3501A-7F72-4A6E-90BE-4F1AD6A3B5D2">
+														<span class="event-name">Speaking - American Association of Advertising Agencies Data Summit</span>
+														<span class="event-date">10/16</span>
 														<span class="event-location">New York</span>
 													</a>
 												</li>
 												<li>
 													<a target="_blank" href="http://brandinnovatorsmegatrends.com/">
-														<span class="event-name">Brand Innovators Mega-Trends Summit</span>
-														<span class="event-date">9/25</span>
-														<span class="event-location">New York</span>
+														<span class="event-name">Sponsoring - Brand Innovators Mega-Trends Summit</span>
+														<span class="event-date">10/17</span>
+														<span class="event-location">San Francisco</span>
 													</a>
 												</li>
 												<li>
-													<a target="_blank" href="http://bcu13boston-zvents.eventbrite.com">
-														<span class="event-name">David Chang: Brand Camp</span>
-														<span class="event-date">9/26</span>
-														<span class="event-location">Boston</span>
+													<a target="_blank" href="http://www.imediaconnection.com/summits/32931.asp">
+														<span class="event-name">Attending - iMedia Breakthrough Summit</span>
+														<span class="event-date">10/20</span>
+														<span class="event-location">Austin</span>
 													</a>
 												</li>
 												<li>
-													<a target="_blank" href="http://www.admonsters.com/event/op-us-4">
-														<span class="event-name">Patrick Gauthier: AdMonster OPS</span>
-														<span class="event-date">9/26</span>
-														<span class="event-location">New York</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://www.masstlc.org/events/event_details.asp?id=267167">
-														<span class="event-name">MassTLC Workforce Seminar</span>
-														<span class="event-date">9/27</span>
-														<span class="event-location">Boston</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://www.houstonima.org/master-events?eventId=644849&EventViewMode=EventDetails">
-														<span class="event-name">Houston Interactive Marketing Association 2013 Interactive Strategies Conference</span>
-														<span class="event-date">10/2</span>
-														<span class="event-location">Houston, TX</span>
+													<a target="_blank" href="http://digiday.com/event/digidayagencysummit/">
+														<span class="event-name">Sponsoring - Digiday Agency Summit</span>
+														<span class="event-date">10/22</span>
+														<span class="event-location">Miami</span>
 													</a>
 												</li>
 											
@@ -315,10 +323,33 @@
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
-												<li><a target="_blank" href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</a></li>
-												<li><a target="_blank" href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">Geo-fencing drives 68% lift in response for convenience, gas merchants: PayPal</a></li>
-												<li><a target="_blank" href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</a></li>
-												<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">Best Western mobile ad campaign generates .95% CTR</a></li>
+												<li><a target="_blank" href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
+													<span class="event-name">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</span>
+													<span class="event-date">9/6</span>
+													<span class="event-location">PayPal Forward</span>
+													
+													
+													</a></li>
+												<li><a target="_blank" href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">
+													<span class="event-name">Geo-fencing drives 68% lift in response for convenience, gas merchants: PayPal</span>
+													<span class="event-date">8/8</span>
+													<span class="event-location">Mobile Commerce Daily</span>
+													
+													</a></li>
+												<li><a target="_blank" href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">
+													
+													<span class="event-name">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</span>
+													<span class="event-date">8/1</span>
+													<span class="event-location">BostInno</span>
+													
+													</a></li>
+												<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">
+													<span class="event-name">Best Western Mobile Ad Campaign Generates .95% CTR</span>
+													<span class="event-date">7/23</span>
+													<span class="event-location">Mobile Commerce Daily</span>
+													
+													
+													</a></li>
 											</ol>
 											<!--<a href="/news/" class="see-all">See All</a>-->
 										</article><!-- .news-wrap -->
