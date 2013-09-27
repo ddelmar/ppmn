@@ -1,7 +1,7 @@
 <?php require_once('../_/inc/doctype-html.php'); ?>
 	<head>
 		<?php require_once('../_/inc/common-head.php'); ?>
-		<title>Asset Requirements | PayPal Media Network</title>
+		<title>Ad Specs | PayPal Media Network</title>
 		<meta name="description" content="" />
 	</head>
 	<body>
@@ -9,7 +9,7 @@
 		<div class="main">
 			<?php require_once('../_/inc/second-pp-logo.php'); ?>
 
-			<h1>Asset Requirements</h1>
+			<h1>Ad Specs</h1>
 			
 			<h2>Banners</h2>
 			<ul>

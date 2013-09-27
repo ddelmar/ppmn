@@ -98,7 +98,7 @@
     });
 
 	// Close the nav when you click on "content"
-	$(".content").click(function(){
+	$(".content, .main").click(function(){
 		if($("header").hasClass("all-in-view")){
 			// Toggle the class tab-in-view on/off of the header
 	        header.toggleClass('tab-in-view');

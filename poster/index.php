@@ -54,6 +54,8 @@ $("#popup").fadeOut();
 </div>
 -->
 
+<a href="/" id="logo_poster">PayPal Media Network</a>
+
 <div id="you_container">
 	<div id="track"></div>
 	<div class="dot"></div>
