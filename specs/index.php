@@ -11,18 +11,19 @@
 
 			<h1>Ad Specs</h1>
 			
-			<h2>Banners</h2>
+			<h2>Mobile</h2>
+			<h3>Banners</h3>
 			<ul>
 				<li>File Type: Layered PSD (Photoshop)</li>
 				<li>Sizes: 640x100 (Mobile), 728x90, 300x250 (Tablet)
 				<li>Dynamic Location: PPMN displays address and proximity on the bottom 25% of the banner, with location left justified and proximity right justified. Proximity is always viewed as X.Xmi away. Dynamic text is displayed in web Helvetica, for its legibility at small size, in white or black Dynamic text options: Retail name and proximity, street address and/or proximity</li></ul>
 			
-			<h2>Rich Media</h2>
+			<h3>Rich Media</h3>
 			<ul>
 				<li>PPMN designs and builds custom HTML5 rich media in house</li>
 			</ul>
 			
-			<h2>Landing Page</h2>
+			<h3>Landing Page</h3>
 			<ul>
 				<li>If banner is directing to an external site, please provide URL</li>
 				<li>File Types: Layered PSD files (Photoshop), AI (Illustrator), or EPS</li>
@@ -33,7 +34,7 @@
 				<li>Timeline: Agency/brand must approve all designs 10 business days before launch</li>
 			</ul>
 			
-			<h2>Required for Standard Landing Page</h2>
+			<h3>Required for Standard Landing Page</h3>
 			<ul>
 				<li>Brand logo as layered PSD, AI, or EPS</li>
 				<li>Brand guide, if available</li>
@@ -44,7 +45,7 @@
 				<li>If PPMN is designing and building banners and/or landing pages for a contracted client and a campaign is cancelled during the design or development phase, the client/advertiser is responsible for covering costs of the work completed up until the date of cancelation.</li>
 			</ul>
 			
-			<h2>Required for Non-Standard Landing Page</h2>
+			<h3>Required for Non-Standard Landing Page</h3>
 			<ul>
 				<li>PPMN designs and builds custom HTML5 rich media in house</li>
 				<li>If landing page includes external links (Facebook&trade;, Twitter&trade;, retailer mobile site, etc), provide URLs for each link</li>
@@ -52,10 +53,10 @@
 			</ul>
 			
 			
-			<h2>Location File</h2> 
+			<h3>Location File</h3> 
 			<p>If your camaign is geo-fencing specific locations, send a location file in Excel or CSV format that includes location name, street address, city, state (i.e. TX), zip (5 digits) and phone numbers in separate columns</p>
 			
-			<h2>Third Party Reporting</h2>
+			<h3>Third Party Reporting</h3>
 			<ul>
 				<li>PPMN's preferred third party reporting partners are DART&trade; and MediaMind&trade;. Any other vendors need to be tested and approved by PPMN</li>
 				<li>PPMN can run impression tags or 1x1 pixels and click commands</li>
@@ -64,8 +65,19 @@
 				<li>Please associate the reporting account to <a href="mailto:traffic@paypal.com" target="_blank">traffic@paypal.com</a></li>
 			</ul>
 			
-			<h2>Ad Serving</h2>
+			<h3>Ad Serving</h3>
 				<p>In order to leverage PPMN's location-dynamic technology, all ads must be served through PPMN's proprietary ad server</p>
+
+
+<h2>Online</h2>
+<ul>
+<li>40k polite load, up to 80k/100k file size</li>
+<li>Expansion on user click, no auto expand or hot spots</li>
+<li>Standard sizes: 300x250, 728x90</li>
+<li>In banner video only, do not accept pre or post roll video – video should have standard user controls (play, paused, sound on/off, etc.)</li>
+<li>3rd party can host the banner</li>
+<li>Cannot integrate geo-aware content</li>
+</ul>
 
 
 		</div><!-- .main -->
