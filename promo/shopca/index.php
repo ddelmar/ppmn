@@ -66,7 +66,7 @@ To redeem this offer you won't need to enter any special code during checkout. Y
 </div><!-- /container -->
 
 <div class="copy-terms">
-<p>Merchant Terms <br />Offer ends 10/14/2013 at 11:59 PM (EST). Cannot be combined with any other offer. Other restrictions may apply. </p>
+<p>Merchant Terms <br />Offer ends 10/14/2013 at 11:59 PM (EST).</p>
 
 
 <p>PayPal Terms <br />You will receive a discount on your next purchase when you use PayPal and spend the minimum purchase amount at the participating website ("Offer"). Offer valid at the participating website from 12:01 AM EST on the start date through 11:59 PM EST on the expiration date stated on the Offer. Discount will be applied to merchandise after all applicable taxes have been added and will be subtracted from your total at checkout. To apply this Offer, you must a) create or have a Canadian PayPal account in good standing, b) receive an email from PayPal providing the Offer or view an Offer banner on PayPal.ca, c) complete an eligible purchase at a participating website using your PayPal account, and d) complete your purchase using PayPal no later than 11:59 PM EST on the Offer expiration date. The Offer excludes gift certificate payments and gift card purchases. Other exclusions may apply. If you seek a full refund for a purchase that applied the Offer, the full refund amount will be provided subject to the merchant's refund policy. If a partial refund is provided, you will receive the partial refund amount minus the Offer value. If an Offer is included in your refund, the Offer is still subject to its expiration date. Offer valid in Canada and cannot be combined with any other coupon, offer, discount or promotion code and may not be redeemed for cash. Void where prohibited. Offer may not be available when network connectivity between the merchant and PayPal is unavailable.
@@ -75,7 +75,7 @@ To redeem this offer you won't need to enter any special code during checkout. Y
 </div><!-- /terms -->
 </div><!-- /wrapper -->
 
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
 <script type="text/javascript">
 function getQuerystring(key, default_)
 {
