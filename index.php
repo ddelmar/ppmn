@@ -129,7 +129,7 @@
 							// If none of the two conditionals return true, nothing happens. That's what we want: if your viewport is 400 pixels wide, or below, "YOU GET NOTHING." — Willy Wonka
 						</script>
 						<h1>Mobile Targeting</h1>
-						<p>Geo-fence store locations, competitor locations and other relevant points of interest to drive consumer action using location-dynamic creative and rich media.</p><p>Increase relevance by combining location targeting with time of day, weather conditions, audience segment (powered by PlaceIQ&trade;), device type and more.</p>
+						<p>Geo-fence store locations, competitor locations and other relevant points of interest to drive consumer action using location-dynamic creative and rich media.</p><p>Increase relevance by combining location targeting with time of day, weather conditions, audience segment (powered by PlaceIQ&trade;), device type and more. See how <a href="/geo-fencing" title="Geo-Fencing">geo-fencing</a> drives consumers into stores.</p>
 					</article><!-- .content -->
 				</li><!-- .s-4 #mobile-targeting -->
 
