@@ -443,17 +443,6 @@
       "initialSize" : 9343,
       "fileType" : 4096
     },
-    "_dupe\/_\/media\/slide-mobile\/mobile.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-mobile\/mobile.png",
-      "initialSize" : 374397,
-      "fileType" : 8192
-    },
     "\/poster\/i\/ny_you.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -645,17 +634,6 @@
       "outputAbbreviatedPath" : "\/poster\/i\/home_bg.png",
       "initialSize" : 301,
       "fileType" : 8192
-    },
-    "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "_dupe\/_\/media\/slide-home\/hero-1-large-2x.jpg",
-      "initialSize" : 2594632,
-      "fileType" : 4096
     },
     "\/_\/css\/_foundation\/helpers.css" : {
       "ignoreWasSetByUser" : 0,
@@ -965,6 +943,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/_\/media\/slide-online\/onlinetargeting.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/slide-online\/onlinetargeting.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/slide-online\/onlinetargeting.png",
+      "initialSize" : 9850,
+      "fileType" : 8192
+    },
     "\/poster\/i\/ny_cloud_left.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1160,16 +1149,14 @@
       "initialSize" : 63660,
       "fileType" : 4096
     },
-    "\/_\/media\/pp-logo640.png" : {
+    "\/contact-thankyou\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/pp-logo640.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/pp-logo640.png",
-      "initialSize" : 8807,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/contact-thankyou\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/promo\/shopca\/c.css" : {
       "ignoreWasSetByUser" : 0,
@@ -1180,16 +1167,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/poster\/scripts\/jquery.localscroll-1.2.7-min.js" : {
+    "\/_\/media\/pp-logo640.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.localscroll-1.2.7-min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.localscroll-1.2.7-min-prod.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/_\/media\/pp-logo640.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/pp-logo640.png",
+      "initialSize" : 8807,
+      "fileType" : 8192
     },
     "\/poster\/scripts\/nbw-parallax-ipad.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1202,14 +1189,16 @@
       "outputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax-ipad-prod.js",
       "fileType" : 64
     },
-    "\/contact-thankyou\/index.php" : {
+    "\/poster\/scripts\/jquery.localscroll-1.2.7-min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/contact-thankyou\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.localscroll-1.2.7-min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.localscroll-1.2.7-min-prod.js",
+      "fileType" : 64
     },
     "\/_\/media\/management-team\/SarahHodkinson1x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1329,6 +1318,15 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/DavidDelmar2x.jpg",
       "initialSize" : 129450,
       "fileType" : 4096
+    },
+    "\/specs\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/specs\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_\/media\/slide-analytics-targeting\/rotate-trigger-2x.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1499,15 +1497,6 @@
       "outputAbbreviatedPath" : "\/_\/js\/vendor\/modernizr-2.6.2.min-prod.js",
       "fileType" : 64
     },
-    "\/asset-requirements\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/asset-requirements\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_\/media\/slide-home\/hero-1-large-2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1516,7 +1505,7 @@
       "inputAbbreviatedPath" : "\/_\/media\/slide-home\/hero-1-large-2x.jpg",
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_\/media\/slide-home\/hero-1-large-2x.jpg",
-      "initialSize" : 2594632,
+      "initialSize" : 364390,
       "fileType" : 4096
     },
     "\/_\/media\/slide-about\/about.png" : {

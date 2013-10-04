@@ -4,6 +4,14 @@
 
 .s-5
 	background-color: #0d79bf
+	background-size: 46%
+	background-position: 77% 50%
+	background-repeat: no-repeat
+	background-image: none
+
+	+mq-min-width($bp-medium)
+		background-image: url("/_/media/slide-online/onlinetargeting.png")
+		
 
 	video
 		display: none
@@ -31,15 +39,15 @@
 				max-width: 293px
 
 	h1,
-	p
-		+mq-min-width($bp-medium)
-			margin-right: 350px
-
+	p,
+	li
+		margin-right: 0px
 		+mq-min-width($bp-large)
 			margin-right: 380px
+
+		+mq-min-width($bp-medium)
+			margin-right: 380px
 		
-		+mq-max-width(860px)
-			margin: 0
 
 	h1
 
