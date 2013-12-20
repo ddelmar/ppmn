@@ -259,99 +259,56 @@
 				<li class="s-8" id="news-and-events">
 									<div class="content">
 										<div class="buttons">
-											<!-- <a target="_blank" href="#case-studies" class="modal-link">Case Studies</a> -->
-											<!-- <a target="_blank" href="#resources" class="modal-link">Resources</a> -->
+											<!-- <a href="#case-studies" class="modal-link">Case Studies</a> -->
+											<!-- <a href="#resources" class="modal-link">Resources</a> -->
 										</div><!-- .buttons -->
 										<article class="events-wrap">
 											<h1>Events</h1>
-											<ol>
-												<li>
-													<a target="_blank" href="http://www.houstonima.org/master-events?eventId=644849&EventViewMode=EventDetails">
-														<span class="event-name">Speaking - Houston Interactive Marketing Association 2013 Interactive Strategies Conference</span>
-														<span class="event-date">10/2</span>
-														<span class="event-location">Houston, TX</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://www.mobilemarketingstrategiessummit.com/">
-														<span class="event-name">Speaking - Mobile Marketing Strategies Summit</span>
-														<span class="event-date">10/2</span>
-														<span class="event-location">Boston</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://www.shoppermarketexpo.com/">
-														<span class="event-name">Attending - Shopper Marketing Expo</span>
-														<span class="event-date">10/8</span>
-														<span class="event-location">Chicago</span>
-													</a>
-												</li>
-												<li>
-
-													<a target="_blank" href="https://www.aaaa.org/pages/events.aspx?webcode=EventInfo&Regpath=EventRegFees&Reg_evt_key=2EA3501A-7F72-4A6E-90BE-4F1AD6A3B5D2">
-														<span class="event-name">Speaking - American Association of Advertising Agencies Data Summit</span>
-														<span class="event-date">10/16</span>
-														<span class="event-location">New York</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://brandinnovatorsmegatrends.com/">
-														<span class="event-name">Sponsoring - Brand Innovators Mega-Trends Summit</span>
-														<span class="event-date">10/17</span>
-														<span class="event-location">San Francisco</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://www.imediaconnection.com/summits/32931.asp">
-														<span class="event-name">Attending - iMedia Breakthrough Summit</span>
-														<span class="event-date">10/20</span>
-														<span class="event-location">Austin</span>
-													</a>
-												</li>
-												<li>
-													<a target="_blank" href="http://digiday.com/event/digidayagencysummit/">
-														<span class="event-name">Sponsoring - Digiday Agency Summit</span>
-														<span class="event-date">10/22</span>
-														<span class="event-location">Miami</span>
-													</a>
-												</li>
 											
-
-											</ol>
-											<a href="/events/" class="see-all">See All</a>
+											<div id="agenda"><p>Loading...</p></div>
+											<script type="text/javascript" src="http://www.google.com/calendar/feeds/k6s7hd0r73s48pv4h4mt14lft8@group.calendar.google.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
+											
+										
+											<!-- <a href="/events/" class="see-all">See All</a> -->
 										</article><!-- .events-wrap -->
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
-												<li><a target="_blank" href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
+												<li><a href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
+													<span class="event-name">PayPal's towering presence in Boston</span>
+													<span class="event-date">11/8</span>
+													<span class="event-location">Boston Business Journal</span>
+
+
+													</a></li>
+													
+												<li><a href="http://www.mobilemarketingwatch.com/paypal-advertisers-leveraging-geo-targeting-to-drive-purchases-37167/">
+													<span class="event-name">PayPal: Advertisers Leveraging Geo-Targeting to Drive Purchases</span>
+													<span class="event-date">10/31</span>
+													<span class="event-location">Mobile Marketing Watch</span>
+													
+													
+													</a></li>
+													<li><a href="http://bostinno.streetwise.co/2013/10/24/paypal-media-networks-push-towards-the-post-wallet-era-with-beacon/">
+														<span class="event-name">PayPal Media Network's Push Towards The 'Post-Wallet Era' with Beacon</span>
+														<span class="event-date">10/24</span>
+														<span class="event-location">BostInno</span>
+
+
+														</a></li>
+													
+													
+													
+												<li><a href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
 													<span class="event-name">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</span>
 													<span class="event-date">9/6</span>
 													<span class="event-location">PayPal Forward</span>
 													
 													
 													</a></li>
-												<li><a target="_blank" href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">
-													<span class="event-name">Geo-fencing drives 68% lift in response for convenience, gas merchants: PayPal</span>
-													<span class="event-date">8/8</span>
-													<span class="event-location">Mobile Commerce Daily</span>
-													
-													</a></li>
-												<li><a target="_blank" href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">
-													
-													<span class="event-name">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</span>
-													<span class="event-date">8/1</span>
-													<span class="event-location">BostInno</span>
-													
-													</a></li>
-												<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">
-													<span class="event-name">Best Western Mobile Ad Campaign Generates .95% CTR</span>
-													<span class="event-date">7/23</span>
-													<span class="event-location">Mobile Commerce Daily</span>
-													
-													
-													</a></li>
+
 											</ol>
-											<!--<a href="/news/" class="see-all">See All</a>-->
+										<a href="/news/" class="see-all">See All</a>
 										</article><!-- .news-wrap -->
 									</div><!-- .content -->
 								</li><!-- .s-8 #news-and-events -->

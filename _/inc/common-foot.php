@@ -37,7 +37,8 @@ More info available at http://www.omniture.com -->
 <?php
 
 $thispage = $_SERVER['REQUEST_URI'];
-$thispage_stripped = ereg_replace("/", "", $thispage );
+$thispage_stripped = basename($thispage);
+/* $thispage_stripped = ereg_replace("/", "", $thispage ); */
 
 ?>
 

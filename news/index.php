@@ -11,13 +11,58 @@
 			<article class="news-wrap">
 				<h1>News</h1>
 				<ol>
+					<li><a href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
+						<span class="event-name">PayPal's towering presence in Boston</span>
+						<span class="event-date">11/8</span>
+						<span class="event-location">Boston Business Journal</span>
 
 
-					<li><a target="_blank" href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">Geo-fencing drive 68 pc lift in response for convenience, gas merchants: PayPal</a></li>
-					<li><a target="_blank" href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</a></li>
-					<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">Best Western mobile ad campaign generates .95% CTR</a></li>
+						</a></li>
+						
+					<li><a href="http://www.mobilemarketingwatch.com/paypal-advertisers-leveraging-geo-targeting-to-drive-purchases-37167/">
+						<span class="event-name">PayPal: Advertisers Leveraging Geo-Targeting to Drive Purchases</span>
+						<span class="event-date">10/31</span>
+						<span class="event-location">Mobile Marketing Watch</span>
+						
+						
+						</a></li>
+						<li><a href="http://bostinno.streetwise.co/2013/10/24/paypal-media-networks-push-towards-the-post-wallet-era-with-beacon/">
+							<span class="event-name">PayPal Media Network's Push Towards The 'Post-Wallet Era' with Beacon</span>
+							<span class="event-date">10/24</span>
+							<span class="event-location">BostInno</span>
 
 
+							</a></li>
+						
+						
+						
+					<li><a href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
+						<span class="event-name">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</span>
+						<span class="event-date">9/6</span>
+						<span class="event-location">PayPal Forward</span>
+						
+						
+						</a></li>
+					<li><a href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">
+						<span class="event-name">Geo-fencing drives 68% lift in response for convenience, gas merchants: PayPal</span>
+						<span class="event-date">8/8</span>
+						<span class="event-location">Mobile Commerce Daily</span>
+						
+						</a></li>
+					<li><a href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">
+						
+						<span class="event-name">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</span>
+						<span class="event-date">8/1</span>
+						<span class="event-location">BostInno</span>
+						
+						</a></li>
+					<li><a href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">
+						<span class="event-name">Best Western Mobile Ad Campaign Generates .95% CTR</span>
+						<span class="event-date">7/23</span>
+						<span class="event-location">Mobile Commerce Daily</span>
+						
+						
+						</a></li>
 				</ol>
 			</article><!-- .news-wrap -->
 		</div><!-- .main -->

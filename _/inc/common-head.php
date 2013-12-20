@@ -4,3 +4,4 @@
 <link rel="stylesheet" href="/_/css/main.css" />
 <link rel="shortcut icon" href="https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" />
 <script src="/_/js/vendor/modernizr-2.6.2.min.js"></script>
+<script src="/_/js/calendar.js"></script>

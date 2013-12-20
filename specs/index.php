@@ -2,7 +2,7 @@
 	<head>
 		<?php require_once('../_/inc/common-head.php'); ?>
 		<title>Ad Specs | PayPal Media Network</title>
-		<meta name="description" content="" />
+		<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 	</head>
 	<body>
 		<?php require_once('../_/inc/header.php'); ?>
@@ -16,7 +16,7 @@
 			<ul>
 				<li>File Type: Layered PSD (Photoshop)</li>
 				<li>Sizes: 640x100 (Mobile), 728x90, 300x250 (Tablet)
-				<li>Dynamic Location: PPMN displays address and proximity on the bottom 25% of the banner, with location left justified and proximity right justified. Proximity is always viewed as X.Xmi away. Dynamic text is displayed in web Helvetica, for its legibility at small size, in white or black Dynamic text options: Retail name and proximity, street address and/or proximity</li></ul>
+				<li>Dynamic Location: PPMN displays address and proximity on the bottom 25% of the banner, with location left justified and proximity right justified. Proximity is always viewed as X.Xmi away.</li><li>Dynamic text is displayed in web Helvetica, for its legibility at small size, in white or black.</li><li>Dynamic text options: Retail name and proximity, street address and/or proximity</li></ul>
 			
 			<h3>Rich Media</h3>
 			<ul>
@@ -54,7 +54,7 @@
 			
 			
 			<h3>Location File</h3> 
-			<p>If your camaign is geo-fencing specific locations, send a location file in Excel or CSV format that includes location name, street address, city, state (i.e. TX), zip (5 digits) and phone numbers in separate columns</p>
+			<p>If your campaign is geo-fencing specific locations, send a location file in Excel or CSV format that includes location name, street address, city, state (i.e. TX), zip (5 digits) and phone numbers in separate columns</p>
 			
 			<h3>Third Party Reporting</h3>
 			<ul>

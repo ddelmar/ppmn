@@ -2,7 +2,7 @@
 	<head>
 		<?php require_once('../_/inc/common-head.php'); ?>
 		<title>Privacy Policy | PayPal Media Network</title>
-		<meta name="description" content="" />
+		<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 	</head>
 	<body>
 		<?php require_once('../_/inc/header.php'); ?>
