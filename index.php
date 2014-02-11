@@ -266,7 +266,7 @@
 											<h1>Events</h1>
 											
 											<div id="agenda"><p>Loading...</p></div>
-											<script type="text/javascript" src="http://www.google.com/calendar/feeds/k6s7hd0r73s48pv4h4mt14lft8@group.calendar.google.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
+											<script type="text/javascript" src="https://www.google.com/calendar/feeds/k6s7hd0r73s48pv4h4mt14lft8@group.calendar.google.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
 											
 										
 											<!-- <a href="/events/" class="see-all">See All</a> -->
@@ -274,6 +274,28 @@
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
+												<li><a href="http://www.adexchanger.com/mobile/paypal-media-network-connecting-offline-online-commerce-a-work-in-progress/">
+													<span class="event-name">PayPal Media Network: Connecting Offline, Online Commerce A Work In Progress</span>
+													<span class="event-date">1/28</span>
+													<span class="event-location">Ad Exchanger</span>
+
+
+													</a></li>
+												<li><a href="http://www.wcvb.com/chronicle/pay-by-phone-and-pay-less/-/12523032/23821438/-/2k8idk/-/index.html">
+													<span class="event-name">Pay by Phone – and Pay Less! Smart Phones are the new Credit Card</span>
+													<span class="event-date">1/8</span>
+													<span class="event-location">WCVB Boston News</span>
+
+
+													</a></li>
+													
+												<li><a href="http://www.mobilemarketer.com/cms/news/advertising/16821.html">
+													<span class="event-name">Top 10 location-based mobile advertising campaigns of 2013</span>
+													<span class="event-date">12/19</span>
+													<span class="event-location">Mobile Marketer</span>
+
+
+													</a></li>
 												<li><a href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
 													<span class="event-name">PayPal's towering presence in Boston</span>
 													<span class="event-date">11/8</span>
