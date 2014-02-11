@@ -18,6 +18,7 @@
 
 		<ul class="nav-list nl-3">
 			<li><a href="/specs/">Ad Specs</a></li>
+			<li><a href="/_/media/dl/PPMNMediaKit.pdf" target="_blank" title="Media Kit PDF">Media Kit [PDF]</a></li>
 			<li><a href="/terms-and-conditions/">Terms and Conditions</a></li>
 			<li><a href="/privacy-policy/">Privacy Policy</a></li>
 			<li><a href="#contact-us" class="modal-link">Contact Us</a></li>
