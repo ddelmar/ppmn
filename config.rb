@@ -10,7 +10,7 @@
 # Using this, we adjust a few other rules further down.
 # ---------------------------------------------------------
 
-environment = :development
+environment = :production
 
 
 # ---------------------------------------------------------

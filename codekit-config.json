@@ -11,14 +11,38 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/poster\/style.css" : {
+    "\/geo-fencing\/i\/pos_wheel.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/pos_wheel.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/pos_wheel.png",
+      "initialSize" : 2658,
+      "fileType" : 8192
+    },
+    "\/_\/js\/calendar.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/js\/calendar.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_\/js\/calendar-prod.js",
+      "fileType" : 64
+    },
+    "\/geo-fencing\/scripts\/nbw-parallax.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/scripts\/nbw-parallax.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/geo-fencing\/scripts\/nbw-parallax-prod.js",
+      "fileType" : 64
     },
     "\/_\/sass\/_module\/slide-closed-loop-offers.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -70,17 +94,6 @@
       "initialSize" : 63833,
       "fileType" : 4096
     },
-    "\/poster\/i\/ny_banner_x.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_banner_x.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_banner_x.png",
-      "initialSize" : 1640,
-      "fileType" : 8192
-    },
     "\/_\/css\/_module\/slide-news-events.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -89,6 +102,17 @@
       "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-news-events.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/geo-fencing\/i\/ny_banner.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_banner.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_banner.png",
+      "initialSize" : 76263,
+      "fileType" : 8192
     },
     "\/_\/media\/management-team\/StefanieMatthews2x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -100,17 +124,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/StefanieMatthews2x.jpg",
       "initialSize" : 73526,
       "fileType" : 4096
-    },
-    "\/poster\/scripts\/nbw-parallax.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax-prod.js",
-      "fileType" : 64
     },
     "\/_\/media\/management-team\/DavidDelmar1x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -153,16 +166,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/poster\/i\/fifth_iphone.png" : {
+    "\/geo-fencing\/i\/fourth_text.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/fifth_iphone.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/fourth_text.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/fifth_iphone.png",
-      "initialSize" : 91180,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/fourth_text.png",
+      "initialSize" : 5139,
       "fileType" : 8192
+    },
+    "\/geo-fencing\/i\/secondBG.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/secondBG.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/secondBG.jpg",
+      "initialSize" : 314114,
+      "fileType" : 4096
     },
     "\/promo\/shopca\/shopca_coupon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -186,15 +210,15 @@
       "initialSize" : 37676,
       "fileType" : 8192
     },
-    "\/poster\/i\/bike_wood.png" : {
+    "\/_\/media\/main-nav-tab-inverted.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/bike_wood.png",
+      "inputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/bike_wood.png",
-      "initialSize" : 524964,
+      "outputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted.png",
+      "initialSize" : 1706,
       "fileType" : 8192
     },
     "\/_\/media\/slide-creative\/creative.png" : {
@@ -216,17 +240,6 @@
       "inputAbbreviatedPath" : "\/_\/css\/_module\/flexslider-custom.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/_\/media\/main-nav-tab-inverted.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/main-nav-tab-inverted.png",
-      "initialSize" : 1706,
-      "fileType" : 8192
     },
     "\/_\/sass\/_module\/flexslider-custom.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -358,25 +371,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/poster\/index.php" : {
+    "\/_\/css\/main.css" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/index.php",
+      "inputAbbreviatedPath" : "\/_\/css\/main.css",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/poster\/i\/secondBG.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/secondBG.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/secondBG.jpg",
-      "initialSize" : 314114,
-      "fileType" : 4096
+      "fileType" : 16
     },
     "\/_\/media\/management-team\/PatrickGauthier2x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -388,15 +390,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/PatrickGauthier2x.jpg",
       "initialSize" : 103078,
       "fileType" : 4096
-    },
-    "\/_\/css\/main.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/_\/media\/management-team\/StefanieMatthews1x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -443,17 +436,6 @@
       "initialSize" : 9343,
       "fileType" : 4096
     },
-    "\/poster\/i\/ny_you.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_you.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_you.png",
-      "initialSize" : 14656,
-      "fileType" : 8192
-    },
     "\/_\/sass\/_mixin\/image-replace.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -465,39 +447,6 @@
       "outputAbbreviatedPath" : "\/_\/css\/image-replace.css",
       "fileType" : 2,
       "debugStyle" : 1
-    },
-    "\/poster\/i\/bubbles1.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/bubbles1.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/bubbles1.png",
-      "initialSize" : 44625,
-      "fileType" : 8192
-    },
-    "\/poster\/i\/fifth_arrow.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/fifth_arrow.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/fifth_arrow.png",
-      "initialSize" : 525,
-      "fileType" : 8192
-    },
-    "\/poster\/i\/ny_bg_9fdae8.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_bg_9fdae8.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_bg_9fdae8.png",
-      "initialSize" : 462638,
-      "fileType" : 8192
     },
     "\/events\/index.php" : {
       "ignoreWasSetByUser" : 0,
@@ -528,14 +477,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/config.rb" : {
+    "\/geo-fencing\/i\/home.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/home.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/home.png",
+      "initialSize" : 248697,
+      "fileType" : 8192
     },
     "\/_\/media\/slide-analytics-targeting\/rotate-trigger.png" : {
       "ignoreWasSetByUser" : 0,
@@ -556,6 +507,26 @@
       "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-home.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/geo-fencing\/i\/thirdBG.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/thirdBG.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/thirdBG.jpg",
+      "initialSize" : 171148,
+      "fileType" : 4096
+    },
+    "\/config.rb" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
     },
     "\/_\/media\/slide-creative\/phone-wireframe-large-2x.png" : {
       "ignoreWasSetByUser" : 0,
@@ -613,28 +584,6 @@
       "initialSize" : 51325,
       "fileType" : 4096
     },
-    "\/poster\/i\/ny_road.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_road.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_road.png",
-      "initialSize" : 18874,
-      "fileType" : 8192
-    },
-    "\/poster\/i\/home_bg.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/home_bg.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/home_bg.png",
-      "initialSize" : 301,
-      "fileType" : 8192
-    },
     "\/_\/css\/_foundation\/helpers.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -643,6 +592,17 @@
       "inputAbbreviatedPath" : "\/_\/css\/_foundation\/helpers.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/geo-fencing\/i\/home_bg.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/home_bg.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/home_bg.png",
+      "initialSize" : 301,
+      "fileType" : 8192
     },
     "\/_\/js\/main.js" : {
       "ignoreWasSetByUser" : 0,
@@ -664,15 +624,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/poster\/i\/bike_bg.png" : {
+    "\/geo-fencing\/i\/bubbles2.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/bike_bg.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/bubbles2.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/bike_bg.png",
-      "initialSize" : 1458253,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/bubbles2.png",
+      "initialSize" : 105276,
       "fileType" : 8192
     },
     "\/_\/sass\/_mixin\/media-queries.sass" : {
@@ -696,15 +656,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/poster\/i\/home.png" : {
+    "\/geo-fencing\/i\/ny_bg_9fdae8.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/home.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_bg_9fdae8.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/home.png",
-      "initialSize" : 248697,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_bg_9fdae8.png",
+      "initialSize" : 462638,
       "fileType" : 8192
     },
     "\/_\/media\/slide-home\/hero-3-large.jpg" : {
@@ -718,6 +678,17 @@
       "initialSize" : 86339,
       "fileType" : 4096
     },
+    "\/geo-fencing\/i\/bike_bg.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/bike_bg.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/bike_bg.jpg",
+      "initialSize" : 171148,
+      "fileType" : 4096
+    },
     "\/_\/sass\/_module\/slide-online-targeting.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -729,6 +700,17 @@
       "outputAbbreviatedPath" : "\/_\/css\/slide-online-targeting.css",
       "fileType" : 2,
       "debugStyle" : 1
+    },
+    "\/geo-fencing\/i\/ny_you.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_you.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_you.png",
+      "initialSize" : 14656,
+      "fileType" : 8192
     },
     "\/_\/css\/_module\/slide-about.css" : {
       "ignoreWasSetByUser" : 0,
@@ -770,17 +752,6 @@
       "initialSize" : 35184,
       "fileType" : 4096
     },
-    "\/poster\/i\/bike_bg.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/bike_bg.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/bike_bg.jpg",
-      "initialSize" : 171148,
-      "fileType" : 4096
-    },
     "\/terms-and-conditions\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -789,17 +760,6 @@
       "inputAbbreviatedPath" : "\/terms-and-conditions\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/poster\/i\/dot.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/dot.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/dot.png",
-      "initialSize" : 290,
-      "fileType" : 8192
     },
     "\/_\/sass\/main.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -813,27 +773,16 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/poster\/i\/fourthBG.jpg" : {
+    "\/geo-fencing\/i\/firstBG.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/fourthBG.jpg",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/firstBG.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/fourthBG.jpg",
-      "initialSize" : 98766,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/firstBG.jpg",
+      "initialSize" : 264440,
       "fileType" : 4096
-    },
-    "\/poster\/i\/ny_banner.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_banner.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_banner.png",
-      "initialSize" : 76263,
-      "fileType" : 8192
     },
     "\/_\/inc\/modal-case-studies.php" : {
       "ignoreWasSetByUser" : 0,
@@ -896,6 +845,17 @@
       "initialSize" : 28052,
       "fileType" : 4096
     },
+    "\/geo-fencing\/i\/bike_wood.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/bike_wood.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/bike_wood.png",
+      "initialSize" : 524964,
+      "fileType" : 8192
+    },
     "\/privacy-policy\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -934,6 +894,15 @@
       "initialSize" : 14827,
       "fileType" : 8192
     },
+    "\/geo-fencing\/ipad.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/ipad.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_\/css\/_foundation\/normalize.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -942,6 +911,15 @@
       "inputAbbreviatedPath" : "\/_\/css\/_foundation\/normalize.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/geo-fencing\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_\/media\/slide-online\/onlinetargeting.png" : {
       "ignoreWasSetByUser" : 0,
@@ -954,49 +932,38 @@
       "initialSize" : 9850,
       "fileType" : 8192
     },
-    "\/poster\/i\/ny_cloud_left.png" : {
+    "\/geo-fencing\/i\/ny_bike.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_cloud_left.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_bike.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_cloud_left.png",
-      "initialSize" : 8522,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_bike.png",
+      "initialSize" : 17818,
       "fileType" : 8192
     },
-    "\/poster\/i\/pos_bg.png" : {
+    "\/geo-fencing\/i\/dot.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/pos_bg.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/dot.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/pos_bg.png",
-      "initialSize" : 151669,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/dot.png",
+      "initialSize" : 290,
       "fileType" : 8192
     },
-    "\/poster\/scripts\/jquery.scrollTo-1.4.2-min.js" : {
+    "\/geo-fencing\/scripts\/jquery.scrollTo-1.4.2-min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.scrollTo-1.4.2-min.js",
+      "inputAbbreviatedPath" : "\/geo-fencing\/scripts\/jquery.scrollTo-1.4.2-min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.scrollTo-1.4.2-min-prod.js",
+      "outputAbbreviatedPath" : "\/geo-fencing\/scripts\/jquery.scrollTo-1.4.2-min-prod.js",
       "fileType" : 64
-    },
-    "\/poster\/i\/bubbles2.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/bubbles2.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/bubbles2.png",
-      "initialSize" : 105276,
-      "fileType" : 8192
     },
     "\/_\/media\/management-team\/NealaPolachi2x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1008,6 +975,17 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/NealaPolachi2x.jpg",
       "initialSize" : 84715,
       "fileType" : 4096
+    },
+    "\/geo-fencing\/scripts\/jquery.inview.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/scripts\/jquery.inview.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/geo-fencing\/scripts\/jquery.inview-prod.js",
+      "fileType" : 64
     },
     "\/_\/inc\/common-foot.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1073,17 +1051,6 @@
       "fileType" : 2,
       "debugStyle" : 1
     },
-    "\/poster\/scripts\/jquery.inview.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.inview.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.inview-prod.js",
-      "fileType" : 64
-    },
     "\/_\/media\/slide-home\/illustration.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1095,6 +1062,17 @@
       "initialSize" : 14339,
       "fileType" : 8192
     },
+    "\/geo-fencing\/i\/ny_cloud_right.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_cloud_right.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_cloud_right.png",
+      "initialSize" : 13499,
+      "fileType" : 8192
+    },
     "\/_\/inc\/modal-contact-form.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1103,6 +1081,17 @@
       "inputAbbreviatedPath" : "\/_\/inc\/modal-contact-form.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/geo-fencing\/i\/ny_road.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_road.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_road.png",
+      "initialSize" : 18874,
+      "fileType" : 8192
     },
     "\/_\/js\/vendor\/jquery-1.9.1.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1114,17 +1103,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_\/js\/vendor\/jquery-1.9.1.min-prod.js",
       "fileType" : 64
-    },
-    "\/poster\/i\/ny_radius_45opacity.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_radius_45opacity.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_radius_45opacity.png",
-      "initialSize" : 28070,
-      "fileType" : 8192
     },
     "\/_\/sass\/_foundation\/normalize.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -1158,15 +1136,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/promo\/shopca\/c.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/promo\/shopca\/c.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_\/media\/pp-logo640.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1178,27 +1147,36 @@
       "initialSize" : 8807,
       "fileType" : 8192
     },
-    "\/poster\/scripts\/nbw-parallax-ipad.js" : {
+    "\/geo-fencing\/i\/ny_radius_45opacity.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax-ipad.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/nbw-parallax-ipad-prod.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_radius_45opacity.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_radius_45opacity.png",
+      "initialSize" : 28070,
+      "fileType" : 8192
     },
-    "\/poster\/scripts\/jquery.localscroll-1.2.7-min.js" : {
+    "\/promo\/shopca\/c.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/scripts\/jquery.localscroll-1.2.7-min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/poster\/scripts\/jquery.localscroll-1.2.7-min-prod.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/promo\/shopca\/c.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/geo-fencing\/i\/ny_banner_x.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_banner_x.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_banner_x.png",
+      "initialSize" : 1640,
+      "fileType" : 8192
     },
     "\/_\/media\/management-team\/SarahHodkinson1x.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1210,6 +1188,17 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/SarahHodkinson1x.jpg",
       "initialSize" : 41525,
       "fileType" : 4096
+    },
+    "\/geo-fencing\/i\/ny_cloud_left.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/ny_cloud_left.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_cloud_left.png",
+      "initialSize" : 8522,
+      "fileType" : 8192
     },
     "\/_\/css\/_page\/non-slide-general.css" : {
       "ignoreWasSetByUser" : 0,
@@ -1231,6 +1220,17 @@
       "initialSize" : 374397,
       "fileType" : 8192
     },
+    "\/geo-fencing\/scripts\/nbw-parallax-ipad.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/scripts\/nbw-parallax-ipad.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/geo-fencing\/scripts\/nbw-parallax-ipad-prod.js",
+      "fileType" : 64
+    },
     "\/_\/media\/management-team\/ScottHendrickson1x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1241,17 +1241,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson1x.jpg",
       "initialSize" : 51739,
       "fileType" : 4096
-    },
-    "\/poster\/i\/fourth_text.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/fourth_text.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/fourth_text.png",
-      "initialSize" : 5139,
-      "fileType" : 8192
     },
     "\/_\/media\/slide-closed-loop-offers\/illustration-large-2x.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1286,16 +1275,14 @@
       "initialSize" : 435863,
       "fileType" : 4096
     },
-    "\/poster\/i\/ny_bike.png" : {
+    "\/geo-fencing\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_bike.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_bike.png",
-      "initialSize" : 17818,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/geo-fencing\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_\/media\/pp-logo.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1328,6 +1315,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/geo-fencing\/i\/fifth_arrow.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/fifth_arrow.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/fifth_arrow.png",
+      "initialSize" : 525,
+      "fileType" : 8192
+    },
     "\/_\/media\/slide-analytics-targeting\/rotate-trigger-2x.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1338,15 +1336,6 @@
       "outputAbbreviatedPath" : "\/_\/media\/slide-analytics-targeting\/rotate-trigger-2x.png",
       "initialSize" : 2927,
       "fileType" : 8192
-    },
-    "\/_\/css\/_module\/slide-mobile-and-online.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-mobile-and-online.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/_\/css\/_module\/slide-closed-loop-offers.css" : {
       "ignoreWasSetByUser" : 0,
@@ -1363,6 +1352,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_\/css\/_module\/modals.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_\/css\/_module\/slide-mobile-and-online.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/css\/_module\/slide-mobile-and-online.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -1388,15 +1386,26 @@
       "outputAbbreviatedPath" : "\/_\/js\/plugins-prod-prod.js",
       "fileType" : 64
     },
-    "\/poster\/i\/pos_wheel.png" : {
+    "\/geo-fencing\/i\/pos_bg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/pos_wheel.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/pos_bg.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/pos_wheel.png",
-      "initialSize" : 2658,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/pos_bg.png",
+      "initialSize" : 151669,
+      "fileType" : 8192
+    },
+    "\/geo-fencing\/i\/fifth_iphone.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/fifth_iphone.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/fifth_iphone.png",
+      "initialSize" : 91180,
       "fileType" : 8192
     },
     "\/_\/css\/_foundation\/base.css" : {
@@ -1419,16 +1428,16 @@
       "initialSize" : 4027,
       "fileType" : 8192
     },
-    "\/poster\/i\/ny_cloud_right.png" : {
+    "\/geo-fencing\/i\/fourthBG.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/ny_cloud_right.png",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/fourthBG.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/ny_cloud_right.png",
-      "initialSize" : 13499,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/fourthBG.jpg",
+      "initialSize" : 98766,
+      "fileType" : 4096
     },
     "\/_\/media\/main-nav-tab-2x.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1530,37 +1539,6 @@
       "initialSize" : 6876,
       "fileType" : 4096
     },
-    "\/poster\/i\/trainers.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/trainers.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/trainers.png",
-      "initialSize" : 263745,
-      "fileType" : 8192
-    },
-    "\/poster\/ipad.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/ipad.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/poster\/i\/firstBG.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/firstBG.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/firstBG.jpg",
-      "initialSize" : 264440,
-      "fileType" : 4096
-    },
     "\/_\/media\/management-team\/scott-hendrickson-2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1572,12 +1550,32 @@
       "initialSize" : 25934,
       "fileType" : 4096
     },
+    "\/geo-fencing\/i\/trainers.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/trainers.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/trainers.png",
+      "initialSize" : 263745,
+      "fileType" : 8192
+    },
     "\/promo\/shopca\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/promo\/shopca\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/io\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/io\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1592,6 +1590,17 @@
       "initialSize" : 42850,
       "fileType" : 8192
     },
+    "\/geo-fencing\/i\/bubbles1.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/bubbles1.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/bubbles1.png",
+      "initialSize" : 44625,
+      "fileType" : 8192
+    },
     "\/_\/media\/management-team\/patrick-gauthier-2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1602,6 +1611,17 @@
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/patrick-gauthier-2x.jpg",
       "initialSize" : 20601,
       "fileType" : 4096
+    },
+    "\/geo-fencing\/scripts\/jquery.localscroll-1.2.7-min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/geo-fencing\/scripts\/jquery.localscroll-1.2.7-min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/geo-fencing\/scripts\/jquery.localscroll-1.2.7-min-prod.js",
+      "fileType" : 64
     },
     "\/_\/sass\/_foundation\/helpers.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -1624,16 +1644,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/poster\/i\/thirdBG.jpg" : {
+    "\/geo-fencing\/i\/bike_bg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/poster\/i\/thirdBG.jpg",
+      "inputAbbreviatedPath" : "\/geo-fencing\/i\/bike_bg.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/poster\/i\/thirdBG.jpg",
-      "initialSize" : 171148,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/geo-fencing\/i\/bike_bg.png",
+      "initialSize" : 1458253,
+      "fileType" : 8192
     },
     "\/_\/media\/pp-logo-white.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1829,8 +1849,8 @@
       "evil" : 0,
       "node" : 0,
       "rhino" : 0,
-      "ass" : 0,
-      "devel" : 0
+      "devel" : 0,
+      "ass" : 0
     },
     "uglifyFlags" : {
       "no-mangle-functions" : 0,
@@ -1839,8 +1859,8 @@
       "no-dead-code" : 0,
       "inline-script" : 0,
       "ascii" : 0,
-      "mangle-toplevel" : 0,
       "unsafe" : 0,
+      "mangle-toplevel" : 0,
       "no-seqs" : 1,
       "beautify" : 0,
       "lift-vars" : 0,
