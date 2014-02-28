@@ -274,60 +274,30 @@
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
-												<li><a href="http://www.adexchanger.com/mobile/paypal-media-network-connecting-offline-online-commerce-a-work-in-progress/">
-													<span class="event-name">PayPal Media Network: Connecting Offline, Online Commerce A Work In Progress</span>
-													<span class="event-date">1/28</span>
-													<span class="event-location">Ad Exchanger</span>
-
-
+												<li><a target="_blank" href="http://bostinno.streetwise.co/2014/02/20/paypal-report-reveals-people-prefer-to-browse-than-bundle-up-this-winter/">
+													<span class="event-name">PayPal Report Reveals People Prefer Browsing to Bundling Up This Winter</span>
+													<span class="event-date">2/20</span>
+													<span class="event-location">BostInno</span>
 													</a></li>
-												<li><a href="http://www.wcvb.com/chronicle/pay-by-phone-and-pay-less/-/12523032/23821438/-/2k8idk/-/index.html">
-													<span class="event-name">Pay by Phone – and Pay Less! Smart Phones are the new Credit Card</span>
-													<span class="event-date">1/8</span>
-													<span class="event-location">WCVB Boston News</span>
-
-
-													</a></li>
-													
-												<li><a href="http://www.mobilemarketer.com/cms/news/advertising/16821.html">
-													<span class="event-name">Top 10 location-based mobile advertising campaigns of 2013</span>
-													<span class="event-date">12/19</span>
-													<span class="event-location">Mobile Marketer</span>
-
-
-													</a></li>
-												<li><a href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
-													<span class="event-name">PayPal's towering presence in Boston</span>
-													<span class="event-date">11/8</span>
-													<span class="event-location">Boston Business Journal</span>
-
-
-													</a></li>
-													
-												<li><a href="http://www.mobilemarketingwatch.com/paypal-advertisers-leveraging-geo-targeting-to-drive-purchases-37167/">
-													<span class="event-name">PayPal: Advertisers Leveraging Geo-Targeting to Drive Purchases</span>
-													<span class="event-date">10/31</span>
-													<span class="event-location">Mobile Marketing Watch</span>
-													
-													
-													</a></li>
-													<li><a href="http://bostinno.streetwise.co/2013/10/24/paypal-media-networks-push-towards-the-post-wallet-era-with-beacon/">
-														<span class="event-name">PayPal Media Network's Push Towards The 'Post-Wallet Era' with Beacon</span>
-														<span class="event-date">10/24</span>
-														<span class="event-location">BostInno</span>
-
-
+													<li><a href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/" target="_blank">
+														<span class="event-name">If You Advertised Here, You'd Have Sales By Now</span>
+														<span class="event-date">2/19</span>
+														<span class="event-location">PayPal Forward</span>
 														</a></li>
-													
-													
-													
-												<li><a href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
-													<span class="event-name">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</span>
-													<span class="event-date">9/6</span>
-													<span class="event-location">PayPal Forward</span>
-													
-													
+
+														<li><a href="http://www.mobilecommercedaily.com/online-flower-companies-crank-up-mobile-for-acquisition" target="_blank">
+															<span class="event-name">Online florists crank up mobile for acquisition</span>
+															<span class="event-date">2/10</span>
+															<span class="event-location">Mobile Commerce Daily</span>
+															</a></li>
+
+												<li><a href="http://www.bizjournals.com/boston/blog/techflash/2014/02/paypal-exec-talks-beacon-location.html?page=all" target="_blank">
+													<span class="event-name">PayPal exec talks Beacon location technology in Boston</span>
+													<span class="event-date">2/7</span>
+													<span class="event-location">Boston Business Journal</span>
 													</a></li>
+											
+												
 
 											</ol>
 										<a href="/news/" class="see-all">See All</a>

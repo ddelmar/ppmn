@@ -1005,17 +1005,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_\/media\/management-team\/BenKneen1x.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_\/media\/management-team\/BenKneen1x.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_\/media\/management-team\/BenKneen1x.jpg",
-      "initialSize" : 19499,
-      "fileType" : 4096
-    },
     "\/_\/media\/management-team\/ScottHendrickson2x.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1025,6 +1014,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_\/media\/management-team\/ScottHendrickson2x.jpg",
       "initialSize" : 121437,
+      "fileType" : 4096
+    },
+    "\/_\/media\/management-team\/BenKneen1x.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_\/media\/management-team\/BenKneen1x.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_\/media\/management-team\/BenKneen1x.jpg",
+      "initialSize" : 19499,
       "fileType" : 4096
     },
     "\/_\/sass\/_module\/slide-creative.sass" : {
@@ -1136,6 +1136,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/promo\/shopca\/c.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/promo\/shopca\/c.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/_\/media\/pp-logo640.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1157,15 +1166,6 @@
       "outputAbbreviatedPath" : "\/geo-fencing\/i\/ny_radius_45opacity.png",
       "initialSize" : 28070,
       "fileType" : 8192
-    },
-    "\/promo\/shopca\/c.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/promo\/shopca\/c.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/geo-fencing\/i\/ny_banner_x.png" : {
       "ignoreWasSetByUser" : 0,
