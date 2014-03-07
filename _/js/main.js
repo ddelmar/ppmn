@@ -111,6 +111,82 @@
 		}
 	});
 
+    function testAnyWebsite(inputs){
+            var urlPattern = /(http|ftp|https):\/\/[\w-]+(\.[\w-]+)+([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])?/;
+            return urlPattern.test(inputs);
+        }
+            
+            
+        function validateEmail(emailval){
+            var emailPattern = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+            return emailPattern.test(emailval);
+        }
+
+        function evaluateEmailStrEnd(emailval){
+            var emailEndPattern = /(com|org|edu|co\.uk)/gi;
+            emailval = emailval.slice(-3);
+            return emailEndPattern.test(emailval);
+        }
+
+        function spamEmailDomains(emailval){
+            var spamPattern = /(mailinator|test)/gi;
+            return spamPattern.test(emailval);
+        }
+
+            $('#firstname').keyup(function(){
+                $('input#firstname').val(this.value.match(/[a-z]*/i));
+            });
+            $('#lastname').keyup(function(){
+                $('input#lastname').val(this.value.match(/[a-z]*/i));       
+            });
+            $('#company').keyup(function(){
+                $('input#company').val(this.value.match(/[a-z ]*/i));       
+            });
+            $('input').bind("paste", function(e){
+                e.preventDefault();
+            });
+
+            
+            $("#submitbtn").on("click", function(e) {    
+                var emailval = $("#email").val();
+                
+                $("#di :input").each(function(){
+                         var inputs = $(this).val(); 
+                                               
+                         var inputdataname = $(this).data('thename');
+
+                         if(inputs==""){ 
+                            $(this).focus().addClass("invalid");
+                            $(".smerrmsg").empty().html("Please enter your " + inputdataname);
+                           
+                            return false;
+                         }
+
+                         else{
+                            $(this).removeClass("invalid");
+                        }
+          
+                });
+ 
+
+                            if(emailval.length){ 
+                                 
+                                if( !evaluateEmailStrEnd(emailval) || spamEmailDomains(emailval) ){
+                                   $("#email").focus().addClass("invalid");
+                                    $(".smerrmsg").empty().html('Please enter a valid email address.'); 
+                                    e.preventDefault;
+                                    return false;
+                                }
+                                else{                             
+                                    $("#di:input").removeClass("invalid");
+                                    return true;
+                                }
+                            }
+
+                return false;
+            });
+
     // ---------------------------------------------------------------------
     // Modal(s) rules.
     // ---------------------------------------------------------------------
