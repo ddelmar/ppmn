@@ -11,24 +11,35 @@
 			<article class="news-wrap">
 				<h1>News</h1>
 				<ol>
-					<li><a target="_blank" href="http://bostinno.streetwise.co/2014/02/20/paypal-report-reveals-people-prefer-to-browse-than-bundle-up-this-winter/">
+					
+						<li><a  href="http://www.forbes.com/sites/stevenbertoni/2014/02/12/can-paypal-beat-apple-google-amazon-and-icahn-in-the-wallet-wars/">
+							<span class="event-name">Can PayPal Beat Apple, Google, Amazon And Icahn In The Wallet Wars?</span>
+							<span class="event-date">2/12</span>
+							<span class="event-location">Forbes</span>
+							</a></li>
+					<li><a  href="http://www.necn.com/03/02/14/TWIB-PayPals-Boston-office/landing_twib.html?blockID=863403&feedID=11128">
+						<span class="event-name">TWIB: PayPal's Boston office</span>
+						<span class="event-date">3/2</span>
+						<span class="event-location">NECN</span>
+						</a></li>
+					<li><a  href="http://bostinno.streetwise.co/2014/02/20/paypal-report-reveals-people-prefer-to-browse-than-bundle-up-this-winter/">
 						<span class="event-name">PayPal Report Reveals People Prefer Browsing to Bundling Up This Winter</span>
 						<span class="event-date">2/20</span>
 						<span class="event-location">BostInno</span>
 						</a></li>
-						<li><a target="_blank" href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/">
+						<li><a  href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/">
 							<span class="event-name">If You Advertised Here, You'd Have Sales By Now</span>
 							<span class="event-date">2/19</span>
 							<span class="event-location">PayPal Forward</span>
 							</a></li>
 							
-							<li><a target="_blank" href="http://www.mobilecommercedaily.com/online-flower-companies-crank-up-mobile-for-acquisition">
+							<li><a  href="http://www.mobilecommercedaily.com/online-flower-companies-crank-up-mobile-for-acquisition">
 								<span class="event-name">Online florists crank up mobile for acquisition</span>
 								<span class="event-date">2/10</span>
 								<span class="event-location">Mobile Commerce Daily</span>
 								</a></li>
 						
-					<li><a target="_blank" href="http://www.bizjournals.com/boston/blog/techflash/2014/02/paypal-exec-talks-beacon-location.html?page=all">
+					<li><a  href="http://www.bizjournals.com/boston/blog/techflash/2014/02/paypal-exec-talks-beacon-location.html?page=all">
 						<span class="event-name">PayPal exec talks Beacon location technology in Boston</span>
 						<span class="event-date">2/7</span>
 						<span class="event-location">Boston Business Journal</span>
@@ -36,14 +47,14 @@
 						
 						
 						
-					<li><a target="_blank" href="http://www.adexchanger.com/mobile/paypal-media-network-connecting-offline-online-commerce-a-work-in-progress/">
+					<li><a  href="http://www.adexchanger.com/mobile/paypal-media-network-connecting-offline-online-commerce-a-work-in-progress/">
 						<span class="event-name">PayPal Media Network: Connecting Offline, Online Commerce A Work In Progress</span>
 						<span class="event-date">1/28</span>
 						<span class="event-location">Ad Exchanger</span>
 
 
 						</a></li>
-					<li><a target="_blank" href="http://www.wcvb.com/chronicle/pay-by-phone-and-pay-less/-/12523032/23821438/-/2k8idk/-/index.html">
+					<li><a  href="http://www.wcvb.com/chronicle/pay-by-phone-and-pay-less/-/12523032/23821438/-/2k8idk/-/index.html">
 						<span class="event-name">Pay by Phone – and Pay Less! Smart Phones are the new Credit Card</span>
 						<span class="event-date">1/8</span>
 						<span class="event-location">WCVB Boston News</span>
@@ -51,7 +62,7 @@
 
 						</a></li>
 						
-					<li><a target="_blank" href="http://www.mobilemarketer.com/cms/news/advertising/16821.html">
+					<li><a  href="http://www.mobilemarketer.com/cms/news/advertising/16821.html">
 						<span class="event-name">Top 10 location-based mobile advertising campaigns of 2013</span>
 						<span class="event-date">12/19</span>
 						<span class="event-location">Mobile Marketer</span>
@@ -59,7 +70,7 @@
 
 						</a></li>
 						
-					<li><a target="_blank" href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
+					<li><a  href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
 						<span class="event-name">PayPal's towering presence in Boston</span>
 						<span class="event-date">11/8</span>
 						<span class="event-location">Boston Business Journal</span>
@@ -67,14 +78,14 @@
 
 						</a></li>
 						
-					<li><a target="_blank" href="http://www.mobilemarketingwatch.com/paypal-advertisers-leveraging-geo-targeting-to-drive-purchases-37167/">
+					<li><a  href="http://www.mobilemarketingwatch.com/paypal-advertisers-leveraging-geo-targeting-to-drive-purchases-37167/">
 						<span class="event-name">PayPal: Advertisers Leveraging Geo-Targeting to Drive Purchases</span>
 						<span class="event-date">10/31</span>
 						<span class="event-location">Mobile Marketing Watch</span>
 						
 						
 						</a></li>
-						<li><a target="_blank" href="http://bostinno.streetwise.co/2013/10/24/paypal-media-networks-push-towards-the-post-wallet-era-with-beacon/">
+						<li><a  href="http://bostinno.streetwise.co/2013/10/24/paypal-media-networks-push-towards-the-post-wallet-era-with-beacon/">
 							<span class="event-name">PayPal Media Network's Push Towards The 'Post-Wallet Era' with Beacon</span>
 							<span class="event-date">10/24</span>
 							<span class="event-location">BostInno</span>
@@ -84,27 +95,27 @@
 						
 						
 						
-					<li><a target="_blank" href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
+					<li><a  href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
 						<span class="event-name">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</span>
 						<span class="event-date">9/6</span>
 						<span class="event-location">PayPal Forward</span>
 						
 						
 						</a></li>
-					<li><a target="_blank" href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">
+					<li><a  href="http://www.mobilecommercedaily.com/geo-fencing-drives-68pc-lift-in-response-for-convenience-gas-merchants-paypal">
 						<span class="event-name">Geo-fencing drives 68% lift in response for convenience, gas merchants: PayPal</span>
 						<span class="event-date">8/8</span>
 						<span class="event-location">Mobile Commerce Daily</span>
 						
 						</a></li>
-					<li><a target="_blank" href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">
+					<li><a  href="http://bostinno.streetwise.co/2013/08/01/paypal-media-network-approved-why-your-mobile-ad-campaign-needs-geo-fencing/?utm_source=newsletter&utm_medium=sat_mc&utm_campaign=2013_08_03">
 						
 						<span class="event-name">PayPal Media Network Approved: Why Your Mobile Ad Campaign Needs Geo-Fencing</span>
 						<span class="event-date">8/1</span>
 						<span class="event-location">BostInno</span>
 						
 						</a></li>
-					<li><a target="_blank" href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">
+					<li><a  href="http://www.mobilecommercedaily.com/best-western-mobile-ad-campaign-generates-95-ctr">
 						<span class="event-name">Best Western Mobile Ad Campaign Generates .95% CTR</span>
 						<span class="event-date">7/23</span>
 						<span class="event-location">Mobile Commerce Daily</span>

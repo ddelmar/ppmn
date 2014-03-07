@@ -274,28 +274,28 @@
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
-												<li><a target="_blank" href="http://bostinno.streetwise.co/2014/02/20/paypal-report-reveals-people-prefer-to-browse-than-bundle-up-this-winter/">
+													<li><a  href="http://www.forbes.com/sites/stevenbertoni/2014/02/12/can-paypal-beat-apple-google-amazon-and-icahn-in-the-wallet-wars/">
+														<span class="event-name">Can PayPal Beat Apple, Google, Amazon And Icahn In The Wallet Wars?</span>
+														<span class="event-date">2/12</span>
+														<span class="event-location">Forbes</span>
+														</a></li>
+												<li><a  href="http://www.necn.com/03/02/14/TWIB-PayPals-Boston-office/landing_twib.html?blockID=863403&feedID=11128">
+													<span class="event-name">TWIB: PayPal's Boston office</span>
+													<span class="event-date">3/2</span>
+													<span class="event-location">NECN</span>
+													</a></li>
+												<li><a  href="http://bostinno.streetwise.co/2014/02/20/paypal-report-reveals-people-prefer-to-browse-than-bundle-up-this-winter/">
 													<span class="event-name">PayPal Report Reveals People Prefer Browsing to Bundling Up This Winter</span>
 													<span class="event-date">2/20</span>
 													<span class="event-location">BostInno</span>
 													</a></li>
-													<li><a href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/" target="_blank">
+													<li><a href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/" >
 														<span class="event-name">If You Advertised Here, You'd Have Sales By Now</span>
 														<span class="event-date">2/19</span>
 														<span class="event-location">PayPal Forward</span>
 														</a></li>
 
-														<li><a href="http://www.mobilecommercedaily.com/online-flower-companies-crank-up-mobile-for-acquisition" target="_blank">
-															<span class="event-name">Online florists crank up mobile for acquisition</span>
-															<span class="event-date">2/10</span>
-															<span class="event-location">Mobile Commerce Daily</span>
-															</a></li>
-
-												<li><a href="http://www.bizjournals.com/boston/blog/techflash/2014/02/paypal-exec-talks-beacon-location.html?page=all" target="_blank">
-													<span class="event-name">PayPal exec talks Beacon location technology in Boston</span>
-													<span class="event-date">2/7</span>
-													<span class="event-location">Boston Business Journal</span>
-													</a></li>
+														
 											
 												
 
