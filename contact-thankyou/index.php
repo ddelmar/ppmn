@@ -14,6 +14,7 @@
 
 
 		</div><!-- .main -->
+		<?php require_once('../_/inc/modal-mediakit.php'); ?>
 		<?php require_once('../_/inc/modal-contact-form.php'); ?>
 		<?php require_once('../_/inc/common-foot.php'); ?>
 

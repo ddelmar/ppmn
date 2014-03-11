@@ -86,7 +86,8 @@
 								<li>One of the largest and most accurate location-based mobile ad networks. </li>
 								<li>RedLaser: eBay Inc's leading in-aisle shopping app reaching consumers at the point of intent. Engage 6M active app users and retarget them across thousands of other mobile properties.</li>
 								<li>Unique experiences that leverage eBay, Inc. assets such as Milo (for display of real-time inventory) and PayPal's Mobile Express Checkout (for optimized mobile commerce).</li>
-								
+								</ul>
+								<div class="teambios"><p><a href="#mediakit-form" class="modal-link">Download our media kit</a></p></div>
 							</div><!-- top-half .flipped-180 -->
 							<div class="rotate-trigger"><span>Rotate</span></div>
 							<div id="bottom-half" class="flipped-180">
@@ -130,6 +131,7 @@
 						</script>
 						<h1>Mobile Targeting</h1>
 						<p>Geo-fence store locations, competitor locations and other relevant points of interest to drive consumer action using location-dynamic creative and rich media.</p><p>Increase relevance by combining location targeting with time of day, weather conditions, audience segment (powered by PlaceIQ&trade;), device type and more. </p><p>See how <a href="/geo-fencing" title="Geo-Fencing">geo-fencing</a> drives consumers into stores.</p>
+						<div class="teambios"><p><a href="#mediakit-form" class="modal-link">Download our media kit</a></p></div>
 					</article><!-- .content -->
 				</li><!-- .s-4 #mobile-targeting -->
 
@@ -188,6 +190,7 @@
 							</li><li>Create identified segments for collaborative targeting using CRM Match
 							</li><li>Develop new custom audiences that are unique to your business</li>
 						</p>
+						<div class="teambios"><p><a href="#mediakit-form" class="modal-link">Download our media kit</a></p></div>
 					</article><!-- .content -->
 				</li><!-- .s-5 #online-targeting -->
 
@@ -248,6 +251,7 @@
 						 </p><p>
 						Through over 50 audience segments or custom audiences built for your unique campaign needs, Closed Loop Offers enable you to engage the customers that matter most to your business.													
 						</p>
+						<div class="teambios"><p><a href="#mediakit-form" class="modal-link">Download our media kit</a></p></div>
 					</article><!-- .content -->
 				</li><!-- .s-7 #closed-loop-offers -->
 
@@ -274,60 +278,30 @@
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
-												<li><a href="http://www.adexchanger.com/mobile/paypal-media-network-connecting-offline-online-commerce-a-work-in-progress/">
-													<span class="event-name">PayPal Media Network: Connecting Offline, Online Commerce A Work In Progress</span>
-													<span class="event-date">1/28</span>
-													<span class="event-location">Ad Exchanger</span>
-
-
-													</a></li>
-												<li><a href="http://www.wcvb.com/chronicle/pay-by-phone-and-pay-less/-/12523032/23821438/-/2k8idk/-/index.html">
-													<span class="event-name">Pay by Phone – and Pay Less! Smart Phones are the new Credit Card</span>
-													<span class="event-date">1/8</span>
-													<span class="event-location">WCVB Boston News</span>
-
-
-													</a></li>
-													
-												<li><a href="http://www.mobilemarketer.com/cms/news/advertising/16821.html">
-													<span class="event-name">Top 10 location-based mobile advertising campaigns of 2013</span>
-													<span class="event-date">12/19</span>
-													<span class="event-location">Mobile Marketer</span>
-
-
-													</a></li>
-												<li><a href="http://www.bizjournals.com/boston/print-edition/2013/11/08/towering-presence.html?page=all">
-													<span class="event-name">PayPal's towering presence in Boston</span>
-													<span class="event-date">11/8</span>
-													<span class="event-location">Boston Business Journal</span>
-
-
-													</a></li>
-													
-												<li><a href="http://www.mobilemarketingwatch.com/paypal-advertisers-leveraging-geo-targeting-to-drive-purchases-37167/">
-													<span class="event-name">PayPal: Advertisers Leveraging Geo-Targeting to Drive Purchases</span>
-													<span class="event-date">10/31</span>
-													<span class="event-location">Mobile Marketing Watch</span>
-													
-													
-													</a></li>
-													<li><a href="http://bostinno.streetwise.co/2013/10/24/paypal-media-networks-push-towards-the-post-wallet-era-with-beacon/">
-														<span class="event-name">PayPal Media Network's Push Towards The 'Post-Wallet Era' with Beacon</span>
-														<span class="event-date">10/24</span>
-														<span class="event-location">BostInno</span>
-
-
+													<li><a  href="http://www.forbes.com/sites/stevenbertoni/2014/02/12/can-paypal-beat-apple-google-amazon-and-icahn-in-the-wallet-wars/">
+														<span class="event-name">Can PayPal Beat Apple, Google, Amazon And Icahn In The Wallet Wars?</span>
+														<span class="event-date">2/12</span>
+														<span class="event-location">Forbes</span>
 														</a></li>
-													
-													
-													
-												<li><a href="https://www.paypal-forward.com/innovation/closed-loop-offers-save-money-for-consumers-and-drive-commerce-for-merchants/">
-													<span class="event-name">Closed Loop Offers Save Money for Consumers and Drive Commerce for Merchants</span>
-													<span class="event-date">9/6</span>
-													<span class="event-location">PayPal Forward</span>
-													
-													
+												<li><a  href="http://www.necn.com/03/02/14/TWIB-PayPals-Boston-office/landing_twib.html?blockID=863403&feedID=11128">
+													<span class="event-name">TWIB: PayPal's Boston office</span>
+													<span class="event-date">3/2</span>
+													<span class="event-location">NECN</span>
 													</a></li>
+												<li><a  href="http://bostinno.streetwise.co/2014/02/20/paypal-report-reveals-people-prefer-to-browse-than-bundle-up-this-winter/">
+													<span class="event-name">PayPal Report Reveals People Prefer Browsing to Bundling Up This Winter</span>
+													<span class="event-date">2/20</span>
+													<span class="event-location">BostInno</span>
+													</a></li>
+													<li><a href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/" >
+														<span class="event-name">If You Advertised Here, You'd Have Sales By Now</span>
+														<span class="event-date">2/19</span>
+														<span class="event-location">PayPal Forward</span>
+														</a></li>
+
+														
+											
+												
 
 											</ol>
 										<a href="/news/" class="see-all">See All</a>
@@ -340,6 +314,7 @@
 		</div><!-- .flexslider -->
 
 		<?php require_once('_/inc/modal-contact-form.php'); ?>
+		<?php require_once('_/inc/modal-mediakit.php'); ?>
 		<?php require_once('_/inc/common-foot.php'); ?>
 
 
