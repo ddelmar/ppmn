@@ -150,9 +150,13 @@
 				<article id="sarah-hodkinson">
 					<h1>Sarah Hodkinson</h1>
 					<div class="jobtitle">Director of Marketing and Sales Strategy</div>
-					<p>Sarah is the Head of Marketing and Sales Strategy at PayPal. In addition to overseeing all marketing programs, Sarah plays a key role in developing the go-to-market strategy and evangelizing multi-channel media solutions across the broader PayPal organization. Prior to the acquisition of WHERE by PayPal, Sarah managed strategic partnerships, working with Constant Contact, AT&amp;T and RIM.</p>
-					<p>Sarah has over 15 years of senior marketing and sales management experience, primarily within the media industry. Prior to relocating to the US in 2002, Sarah held positions in London, England at United Business Media and IPC Media.</p>
-					<p>She graduated from Lancaster University with a B.A. Honors in 1996, and later that year, qualified for MENSA membership. Sarah serves as a committee member for the Boston chapter of WNet (Women Networking in Electronic Transactions), is a mentor in the eBay Women in Technology program and sponsor of the startup, The Welcoming Committee, currently incubated at the PayPal Boston office. In her spare time she enjoys travel, chess and swimming. Follow Sarah on Twitter <a href="https://twitter.com/sarahjhodkinson" target="_blank">@sarahjhodkinson.</a></p>
+					<p>Sarah is the Director of Offers and Marketing. In addition to overseeing PayPal Media Network marketing programs, Sarah plays a key role in leading the Offers initiative and evangelizing omni-channel media solutions.</p>
+					<p>Prior to the acquisition of WHERE by PayPal, Sarah managed strategic partnerships, working with Constant Contact, AT&T and RIM, to grow mobile consumer reach for WHERE.</p>
+					<p>Sarah has over 17 years of senior marketing and sales management experience, primarily within the media industry. Prior to relocating to the US in 2002, Sarah held positions in London, England at United Business Media and IPC Media.</p>
+				<p>	She graduated from Lancaster University with a B.A. Honors in 1996, and later that year, qualified for MENSA membership.</p><p>Sarah sits on the board of directors for the national non-profit, StartOut.org, whose mission is to foster growth in LGBT entrepreneurship. She also serves as a mentor to startups incubated at the PayPal Boston office’s Start Tank and is an investor in the fund, Where Angels.</p>In her spare time Sarah enjoys travel, chess and swimming.</p>Follow Sarah on <a title="sarahjhodkinson" href="https://twitter.com/sarahjhodkinson">Twitter.</a><br />Connect with Sarah on <a href="www.linkedin.com/in/sarahhodkinson/">LinkedIn.</a></p>
+						
+						
+						
 				</article>
 				
 				<article id="ben-kneen">
