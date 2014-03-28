@@ -8,7 +8,7 @@
 	</style>
 	<h1>Media Kit download</h1>
 	<form name="ppmnwslead" id="ppmnwslead" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post">
-		<input type="hidden" name="oid" value="00D300000000LaY" />
+		
 		<input type="hidden" name="retURL" value="https://advertising.paypal.com/mediakit-dl/index.php" />
 		<input type="hidden" id="Account_Type__c" name="Account_Type__c" value="Advertiser/Brand" />
 		<input type="hidden" id="lead_source" name="lead_source" value="MediaKit" />
@@ -20,10 +20,15 @@
 			<li><label>Company<span class="aste">*</span> <input type="text" name="company" required="required" id="mkcompany" data-thename="Comapny Name"/></label></li>
 			<li><label>Email<span class="aste">*</span> <input type="email" name="email" required="required" id="mkemail" data-thename="Email"/></label></li>
 			<li><p class="mksmerrmsg"></p></li>
+
+			<li><input type="hidden" name="title" value="christielaughs"/></li>
+			<li><input type="hidden" name="oid" id="mkoid"/></li>
+
             <li><input type="submit" value="Submit" name="submit" id="submitbtn"/></li>
             <li><a href="/privacy-policy/index.php" target="_blank" class="smlink">Privacy Policy</a></li>
             <li><span class="aste">*</span><span class="reqn">required</span></li>
 		</ul>
+		
 	</form>
-
+			<script>document.getElementById('mkoid').value = '00D300000000LaY';</script>
 </section><!-- .contact-us .modal -->
