@@ -11,7 +11,11 @@
 			<article class="news-wrap">
 				<h1>News</h1>
 				<ol>
-					
+					<li><a href="http://adage.com/article/datadriven-marketing/paypal-connect-mobile-ads-store-visits/292275/" >
+						<span class="event-name">PayPal to Connect Mobile Ads to In-Store Visits</span>
+						<span class="event-date">3/21</span>
+						<span class="event-location">Ad Age</span>
+						</a></li>
 						<li><a  href="http://www.forbes.com/sites/stevenbertoni/2014/02/12/can-paypal-beat-apple-google-amazon-and-icahn-in-the-wallet-wars/">
 							<span class="event-name">Can PayPal Beat Apple, Google, Amazon And Icahn In The Wallet Wars?</span>
 							<span class="event-date">2/12</span>

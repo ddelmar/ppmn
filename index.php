@@ -130,7 +130,7 @@
 							// If none of the two conditionals return true, nothing happens. That's what we want: if your viewport is 400 pixels wide, or below, "YOU GET NOTHING." — Willy Wonka
 						</script>
 						<h1>Mobile Targeting</h1>
-						<p>Geo-fence store locations, competitor locations and other relevant points of interest to drive consumer action using location-dynamic creative and rich media.</p><p>Increase relevance by combining location targeting with time of day, weather conditions, audience segment (powered by PlaceIQ&trade;), device type and more. </p><p>See how <a href="/geo-fencing" title="Geo-Fencing">geo-fencing</a> drives consumers into stores.</p>
+						<p>Geo-fence store locations, competitor locations and other relevant points of interest to drive consumer action using location-dynamic creative and rich media.</p>
 						<div class="teambios"><p><a href="#mediakit-form" class="modal-link">Download our media kit</a></p></div>
 					</article><!-- .content -->
 				</li><!-- .s-4 #mobile-targeting -->
@@ -278,6 +278,11 @@
 										<article class="news-wrap">
 											<h1>News</h1>
 											<ol>
+													<li><a href="http://adage.com/article/datadriven-marketing/paypal-connect-mobile-ads-store-visits/292275/" >
+														<span class="event-name">PayPal to Connect Mobile Ads to In-Store Visits</span>
+														<span class="event-date">3/21</span>
+														<span class="event-location">Ad Age</span>
+														</a></li>
 													<li><a  href="http://www.forbes.com/sites/stevenbertoni/2014/02/12/can-paypal-beat-apple-google-amazon-and-icahn-in-the-wallet-wars/">
 														<span class="event-name">Can PayPal Beat Apple, Google, Amazon And Icahn In The Wallet Wars?</span>
 														<span class="event-date">2/12</span>
@@ -293,11 +298,7 @@
 													<span class="event-date">2/20</span>
 													<span class="event-location">BostInno</span>
 													</a></li>
-													<li><a href="https://www.paypal-forward.com/commerce/if-you-advertised-here-youd-have-sales-by-now/" >
-														<span class="event-name">If You Advertised Here, You'd Have Sales By Now</span>
-														<span class="event-date">2/19</span>
-														<span class="event-location">PayPal Forward</span>
-														</a></li>
+												
 
 														
 											
